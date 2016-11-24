@@ -1,0 +1,33 @@
+{
+  "name": "country-js",
+  "version": "0.0.2",
+  "description": "Get the country code, name, currency symbol, capital, phone code",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "lodash": "^4.16.6"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2",
+    "chai": "^3.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mambaz/country-js.git"
+  },
+  "keywords": [
+    "country",
+    "currency",
+    "symbol",
+    "phone",
+    "code"
+  ],
+  "author": "Shan Chinnananchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mambaz/country-js/issues"
+  },
+  "homepage": "https://github.com/mambaz/num-ber#readme"
+}

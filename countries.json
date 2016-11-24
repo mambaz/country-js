@@ -1,0 +1,3677 @@
+[
+    {
+        "code": "AF",
+        "name": "AFGHANISTAN",
+        "currency": {
+            "currencyName": "AFGHANISTAN AFGHANI",
+            "currencyCode": "AFN",
+            "currencySymbol": "؋"
+        },
+        "geo": {
+            "latitude": 33.93911,
+            "longitude": 67.709953
+        },
+        "capital": "KABUL",
+        "phone": "93"
+    },
+    {
+        "code": "AL",
+        "name": "ALBANIA",
+        "currency": {
+            "currencyName": "ALBANIAN LEK",
+            "currencyCode": "ALL",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 41.153332,
+            "longitude": 20.168331
+        },
+        "capital": "TIRANA",
+        "phone": "355"
+    },
+    {
+        "code": "DZ",
+        "name": "ALGERIA",
+        "currency": {
+            "currencyName": "ALGERIAN DINAR",
+            "currencyCode": "DZD",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 28.033886,
+            "longitude": 1.659626
+        },
+        "capital": "ALGIERS",
+        "phone": "213"
+    },
+    {
+        "code": "AS",
+        "name": "AMERICAN SAMOA",
+        "currency": {
+            "currencyName": "US DOLLAR",
+            "currencyCode": "USD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -14.270972,
+            "longitude": -170.132217
+        },
+        "capital": "PAGO PAGO",
+        "phone": "684"
+    },
+    {
+        "code": "AD",
+        "name": "ANDORRA",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 42.546245,
+            "longitude": 1.601554
+        },
+        "capital": "ANDORRA",
+        "phone": "376"
+    },
+    {
+        "code": "AO",
+        "name": "ANGOLA",
+        "currency": {
+            "currencyName": "ANGOLAN KWANZA",
+            "currencyCode": "AOA",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -11.202692,
+            "longitude": 17.873887
+        },
+        "capital": "LUANDA",
+        "phone": "244"
+    },
+    {
+        "code": "AI",
+        "name": "ANGUILLA",
+        "currency": {
+            "currencyName": "EAST CARIBBEAN DOLLAR",
+            "currencyCode": "XCD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 18.220554,
+            "longitude": -63.068615
+        },
+        "capital": "THE VALLEY",
+        "phone": "1-264"
+    },
+    {
+        "code": "AQ",
+        "name": "ANTARCTICA",
+        "currency": {
+            "currencyName": "EAST CARIBBEAN DOLLAR",
+            "currencyCode": "XCD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -75.250973,
+            "longitude": -0.071389
+        },
+        "capital": "NONE",
+        "phone": "672"
+    },
+    {
+        "code": "AG",
+        "name": "ANTIGUA AND BARBUDA",
+        "currency": {
+            "currencyName": "EAST CARIBBEAN DOLLAR",
+            "currencyCode": "XCD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 17.060816,
+            "longitude": -61.796428
+        },
+        "capital": "ST. JOHNS",
+        "phone": "1-268"
+    },
+    {
+        "code": "AR",
+        "name": "ARGENTINA",
+        "currency": {
+            "currencyName": "ARGENTINE PESO",
+            "currencyCode": "ARS",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -38.416097,
+            "longitude": -63.616672
+        },
+        "capital": "BUENOS AIRES",
+        "phone": "54"
+    },
+    {
+        "code": "AM",
+        "name": "ARMENIA",
+        "currency": {
+            "currencyName": "ARMENIAN DRAM",
+            "currencyCode": "AMD",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 40.069099,
+            "longitude": 45.038189
+        },
+        "capital": "YEREVAN",
+        "phone": "374"
+    },
+    {
+        "code": "AW",
+        "name": "ARUBA",
+        "currency": {
+            "currencyName": "ARUBAN GUILDER",
+            "currencyCode": "AWG",
+            "currencySymbol": "ƒ"
+        },
+        "geo": {
+            "latitude": 12.52111,
+            "longitude": -69.968338
+        },
+        "capital": "ORANJESTAD",
+        "phone": "297"
+    },
+    {
+        "code": "AU",
+        "name": "AUSTRALIA",
+        "currency": {
+            "currencyName": "AUSTRALIAN DOLLAR",
+            "currencyCode": "AUD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -25.274398,
+            "longitude": 133.775136
+        },
+        "capital": "CANBERRA",
+        "phone": "61"
+    },
+    {
+        "code": "AT",
+        "name": "AUSTRIA",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 47.516231,
+            "longitude": 14.550072
+        },
+        "capital": "VIENNA",
+        "phone": "43"
+    },
+    {
+        "code": "AZ",
+        "name": "AZERBAIJAN",
+        "currency": {
+            "currencyName": "AZERBAIJAN NEW MANAT",
+            "currencyCode": "AZN",
+            "currencySymbol": "₼"
+        },
+        "geo": {
+            "latitude": 40.143105,
+            "longitude": 47.576927
+        },
+        "capital": "BAKU",
+        "phone": "994"
+    },
+    {
+        "code": "BS",
+        "name": "BAHAMAS",
+        "currency": {
+            "currencyName": "BAHAMIAN DOLLAR",
+            "currencyCode": "BSD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 25.03428,
+            "longitude": -77.39628
+        },
+        "capital": "NASSAU",
+        "phone": "1-242"
+    },
+    {
+        "code": "BH",
+        "name": "BAHRAIN",
+        "currency": {
+            "currencyName": "BAHRAINI DINAR",
+            "currencyCode": "BHD",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 25.930414,
+            "longitude": 50.637772
+        },
+        "capital": "AL-MANAMAH",
+        "phone": "973"
+    },
+    {
+        "code": "BD",
+        "name": "BANGLADESH",
+        "currency": {
+            "currencyName": "BANGLADESHI TAKA",
+            "currencyCode": "BDT",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 23.684994,
+            "longitude": 90.356331
+        },
+        "capital": "DHAKA",
+        "phone": "880"
+    },
+    {
+        "code": "BB",
+        "name": "BARBADOS",
+        "currency": {
+            "currencyName": "BARBADOS DOLLAR",
+            "currencyCode": "BBD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 13.193887,
+            "longitude": -59.543198
+        },
+        "capital": "BRIDGETOWN",
+        "phone": "1-246"
+    },
+    {
+        "code": "BY",
+        "name": "BELARUS",
+        "currency": {
+            "currencyName": "BELARUSSIAN RUBLE",
+            "currencyCode": "BYR",
+            "currencySymbol": "p."
+        },
+        "geo": {
+            "latitude": 53.709807,
+            "longitude": 27.953389
+        },
+        "capital": "MINSK",
+        "phone": "375"
+    },
+    {
+        "code": "BE",
+        "name": "BELGIUM",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 50.503887,
+            "longitude": 4.469936
+        },
+        "capital": "BRUSSELS",
+        "phone": "32"
+    },
+    {
+        "code": "BZ",
+        "name": "BELIZE",
+        "currency": {
+            "currencyName": "BELIZE DOLLAR",
+            "currencyCode": "BZD",
+            "currencySymbol": "BZ$"
+        },
+        "geo": {
+            "latitude": 17.189877,
+            "longitude": -88.49765
+        },
+        "capital": "BELMOPAN",
+        "phone": "501"
+    },
+    {
+        "code": "BJ",
+        "name": "BENIN",
+        "currency": {
+            "currencyName": "CFA FRANC BCEAO",
+            "currencyCode": "XOF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 9.30769,
+            "longitude": 2.315834
+        },
+        "capital": "PORTO-NOVO",
+        "phone": "229"
+    },
+    {
+        "code": "BM",
+        "name": "BERMUDA",
+        "currency": {
+            "currencyName": "BERMUDIAN DOLLAR",
+            "currencyCode": "BMD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 32.321384,
+            "longitude": -64.75737
+        },
+        "capital": "HAMILTON",
+        "phone": "1-441"
+    },
+    {
+        "code": "BT",
+        "name": "BHUTAN",
+        "currency": {
+            "currencyName": "BHUTAN NGULTRUM",
+            "currencyCode": "BTN",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 27.514162,
+            "longitude": 90.433601
+        },
+        "capital": "THIMPHU",
+        "phone": "975"
+    },
+    {
+        "code": "BO",
+        "name": "BOLIVIA",
+        "currency": {
+            "currencyName": "BOLIVIANO",
+            "currencyCode": "BOB",
+            "currencySymbol": "Bs."
+        },
+        "geo": {
+            "latitude": -16.290154,
+            "longitude": -63.588653
+        },
+        "capital": "LA PAZ",
+        "phone": "591"
+    },
+    {
+        "code": "BA",
+        "name": "BOSNIA-HERZEGOVINA",
+        "currency": {
+            "currencyName": "MARKA",
+            "currencyCode": "BAM",
+            "currencySymbol": "KM"
+        },
+        "geo": {
+            "latitude": 43.915886,
+            "longitude": 17.679076
+        },
+        "capital": "SARAJEVO",
+        "phone": "387"
+    },
+    {
+        "code": "BW",
+        "name": "BOTSWANA",
+        "currency": {
+            "currencyName": "BOTSWANA PULA",
+            "currencyCode": "BWP",
+            "currencySymbol": "P"
+        },
+        "geo": {
+            "latitude": -22.328474,
+            "longitude": 24.684866
+        },
+        "capital": "GABORONE",
+        "phone": "267"
+    },
+    {
+        "code": "BV",
+        "name": "BOUVET ISLAND",
+        "currency": {
+            "currencyName": "NORWEGIAN KRONE",
+            "currencyCode": "NOK",
+            "currencySymbol": "kr"
+        },
+        "geo": {
+            "latitude": -54.423199,
+            "longitude": 3.413194
+        },
+        "capital": "NONE",
+        "phone": ""
+    },
+    {
+        "code": "BR",
+        "name": "BRAZIL",
+        "currency": {
+            "currencyName": "BRAZILIAN REAL",
+            "currencyCode": "BRL",
+            "currencySymbol": "R$"
+        },
+        "geo": {
+            "latitude": -14.235004,
+            "longitude": -51.92528
+        },
+        "capital": "BRASILIA",
+        "phone": "55"
+    },
+    {
+        "code": "IO",
+        "name": "BRITISH INDIAN OCEAN TERRITORY",
+        "currency": {
+            "currencyName": "US DOLLAR",
+            "currencyCode": "USD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -6.343194,
+            "longitude": 71.876519
+        },
+        "capital": "NONE",
+        "phone": ""
+    },
+    {
+        "code": "BN",
+        "name": "BRUNEI DARUSSALAM",
+        "currency": {
+            "currencyName": "BRUNEI DOLLAR",
+            "currencyCode": "BND",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 4.535277,
+            "longitude": 114.727669
+        },
+        "capital": "BANDAR SERI BEGAWAN",
+        "phone": "673"
+    },
+    {
+        "code": "BG",
+        "name": "BULGARIA",
+        "currency": {
+            "currencyName": "BULGARIAN LEV",
+            "currencyCode": "BGN",
+            "currencySymbol": "лв"
+        },
+        "geo": {
+            "latitude": 42.733883,
+            "longitude": 25.48583
+        },
+        "capital": "SOFIA",
+        "phone": "359"
+    },
+    {
+        "code": "BF",
+        "name": "BURKINA FASO",
+        "currency": {
+            "currencyName": "CFA FRANC BCEAO",
+            "currencyCode": "XOF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 12.238333,
+            "longitude": -1.561593
+        },
+        "capital": "OUAGADOUGOU",
+        "phone": "226"
+    },
+    {
+        "code": "BI",
+        "name": "BURUNDI",
+        "currency": {
+            "currencyName": "BURUNDI FRANC",
+            "currencyCode": "BIF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -3.373056,
+            "longitude": 29.918886
+        },
+        "capital": "BUJUMBURA",
+        "phone": "257"
+    },
+    {
+        "code": "KH",
+        "name": "CAMBODIA",
+        "currency": {
+            "currencyName": "KAMPUCHEAN RIEL",
+            "currencyCode": "KHR",
+            "currencySymbol": "៛"
+        },
+        "geo": {
+            "latitude": 12.565679,
+            "longitude": 104.990963
+        },
+        "capital": "PHNOM PENH",
+        "phone": "855"
+    },
+    {
+        "code": "CM",
+        "name": "CAMEROON",
+        "currency": {
+            "currencyName": "CFA FRANC BEAC",
+            "currencyCode": "XAF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 7.369722,
+            "longitude": 12.354722
+        },
+        "capital": "YAOUNDE",
+        "phone": "237"
+    },
+    {
+        "code": "CA",
+        "name": "CANADA",
+        "currency": {
+            "currencyName": "CANADIAN DOLLAR",
+            "currencyCode": "CAD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 56.130366,
+            "longitude": -106.346771
+        },
+        "capital": "OTTAWA",
+        "phone": "1"
+    },
+    {
+        "code": "CV",
+        "name": "CAPE VERDE",
+        "currency": {
+            "currencyName": "CAPE VERDE ESCUDO",
+            "currencyCode": "CVE",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 16.002082,
+            "longitude": -24.013197
+        },
+        "capital": "PRAIA",
+        "phone": "238"
+    },
+    {
+        "code": "KY",
+        "name": "CAYMAN ISLANDS",
+        "currency": {
+            "currencyName": "CAYMAN ISLANDS DOLLAR",
+            "currencyCode": "KYD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 19.513469,
+            "longitude": -80.566956
+        },
+        "capital": "GEORGETOWN",
+        "phone": "1-345"
+    },
+    {
+        "code": "CF",
+        "name": "CENTRAL AFRICAN REPUBLIC",
+        "currency": {
+            "currencyName": "CFA FRANC BEAC",
+            "currencyCode": "XAF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 6.611111,
+            "longitude": 20.939444
+        },
+        "capital": "BANGUI",
+        "phone": "236"
+    },
+    {
+        "code": "TD",
+        "name": "CHAD",
+        "currency": {
+            "currencyName": "CFA FRANC BEAC",
+            "currencyCode": "XAF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 15.454166,
+            "longitude": 18.732207
+        },
+        "capital": "N'DJAMENA",
+        "phone": "235"
+    },
+    {
+        "code": "CL",
+        "name": "CHILE",
+        "currency": {
+            "currencyName": "CHILEAN PESO",
+            "currencyCode": "CLP",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -35.675147,
+            "longitude": -71.542969
+        },
+        "capital": "SANTIAGO",
+        "phone": "56"
+    },
+    {
+        "code": "CN",
+        "name": "CHINA",
+        "currency": {
+            "currencyName": "YUAN RENMINBI",
+            "currencyCode": "CNY",
+            "currencySymbol": "¥"
+        },
+        "geo": {
+            "latitude": 35.86166,
+            "longitude": 104.195397
+        },
+        "capital": "BEIJING",
+        "phone": "86"
+    },
+    {
+        "code": "CX",
+        "name": "CHRISTMAS ISLAND",
+        "currency": {
+            "currencyName": "AUSTRALIAN DOLLAR",
+            "currencyCode": "AUD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -10.447525,
+            "longitude": 105.690449
+        },
+        "capital": "THE SETTLEMENT",
+        "phone": "61"
+    },
+    {
+        "code": "CC",
+        "name": "COCOS (KEELING) ISLANDS",
+        "currency": {
+            "currencyName": "AUSTRALIAN DOLLAR",
+            "currencyCode": "AUD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -12.164165,
+            "longitude": 96.870956
+        },
+        "capital": "WEST ISLAND",
+        "phone": "61"
+    },
+    {
+        "code": "CO",
+        "name": "COLOMBIA",
+        "currency": {
+            "currencyName": "COLOMBIAN PESO",
+            "currencyCode": "COP",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 4.570868,
+            "longitude": -74.297333
+        },
+        "capital": "BOGOTA",
+        "phone": "57"
+    },
+    {
+        "code": "KM",
+        "name": "COMOROS",
+        "currency": {
+            "currencyName": "COMOROS FRANC",
+            "currencyCode": "KMF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -11.875001,
+            "longitude": 43.872219
+        },
+        "capital": "MORONI",
+        "phone": "269"
+    },
+    {
+        "code": "CG",
+        "name": "CONGO",
+        "currency": {
+            "currencyName": "CFA FRANC BEAC",
+            "currencyCode": "XAF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -0.228021,
+            "longitude": 15.827659
+        },
+        "capital": "BRAZZAVILLE",
+        "phone": "242"
+    },
+    {
+        "code": "CD",
+        "name": "CONGO, DEM. REPUBLIC",
+        "currency": {
+            "currencyName": "FRANCS",
+            "currencyCode": "CDF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -4.038333,
+            "longitude": 21.758664
+        },
+        "capital": "KINSHASA",
+        "phone": "243"
+    },
+    {
+        "code": "CK",
+        "name": "COOK ISLANDS",
+        "currency": {
+            "currencyName": "NEW ZEALAND DOLLAR",
+            "currencyCode": "NZD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -21.236736,
+            "longitude": -159.777671
+        },
+        "capital": "AVARUA",
+        "phone": "682"
+    },
+    {
+        "code": "CR",
+        "name": "COSTA RICA",
+        "currency": {
+            "currencyName": "COSTA RICAN COLON",
+            "currencyCode": "CRC",
+            "currencySymbol": "₡"
+        },
+        "geo": {
+            "latitude": 9.748917,
+            "longitude": -83.753428
+        },
+        "capital": "SAN JOSE",
+        "phone": "506"
+    },
+    {
+        "code": "HR",
+        "name": "CROATIA",
+        "currency": {
+            "currencyName": "CROATIAN KUNA",
+            "currencyCode": "HRK",
+            "currencySymbol": "kn"
+        },
+        "geo": {
+            "latitude": 45.1,
+            "longitude": 15.2
+        },
+        "capital": "ZAGREB",
+        "phone": "385"
+    },
+    {
+        "code": "CU",
+        "name": "CUBA",
+        "currency": {
+            "currencyName": "CUBAN PESO",
+            "currencyCode": "CUP",
+            "currencySymbol": "₱"
+        },
+        "geo": {
+            "latitude": 21.521757,
+            "longitude": -77.781167
+        },
+        "capital": "HAVANA",
+        "phone": "53"
+    },
+    {
+        "code": "CY",
+        "name": "CYPRUS",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 35.126413,
+            "longitude": 33.429859
+        },
+        "capital": "NICOSIA",
+        "phone": "357"
+    },
+    {
+        "code": "CZ",
+        "name": "CZECH REP.",
+        "currency": {
+            "currencyName": "CZECH KORUNA",
+            "currencyCode": "CZK",
+            "currencySymbol": "Kč"
+        },
+        "geo": {
+            "latitude": 49.817492,
+            "longitude": 15.472962
+        },
+        "capital": "PRAGUE",
+        "phone": "420"
+    },
+    {
+        "code": "DK",
+        "name": "DENMARK",
+        "currency": {
+            "currencyName": "DANISH KRONE",
+            "currencyCode": "DKK",
+            "currencySymbol": "kr"
+        },
+        "geo": {
+            "latitude": 56.26392,
+            "longitude": 9.501785
+        },
+        "capital": "COPENHAGEN",
+        "phone": "45"
+    },
+    {
+        "code": "DJ",
+        "name": "DJIBOUTI",
+        "currency": {
+            "currencyName": "DJIBOUTI FRANC",
+            "currencyCode": "DJF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 11.825138,
+            "longitude": 42.590275
+        },
+        "capital": "DJIBOUTI",
+        "phone": "253"
+    },
+    {
+        "code": "DM",
+        "name": "DOMINICA",
+        "currency": {
+            "currencyName": "EAST CARIBBEAN DOLLAR",
+            "currencyCode": "XCD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 15.414999,
+            "longitude": -61.370976
+        },
+        "capital": "ROSEAU",
+        "phone": "1-767"
+    },
+    {
+        "code": "DO",
+        "name": "DOMINICAN REPUBLIC",
+        "currency": {
+            "currencyName": "DOMINICAN PESO",
+            "currencyCode": "DOP",
+            "currencySymbol": "RD$"
+        },
+        "geo": {
+            "latitude": 18.735693,
+            "longitude": -70.162651
+        },
+        "capital": "SANTO DOMINGO",
+        "phone": "809"
+    },
+    {
+        "code": "EC",
+        "name": "ECUADOR",
+        "currency": {
+            "currencyName": "ECUADOR SUCRE",
+            "currencyCode": "ECS",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -1.831239,
+            "longitude": -78.183406
+        },
+        "capital": "QUITO",
+        "phone": "593"
+    },
+    {
+        "code": "EG",
+        "name": "EGYPT",
+        "currency": {
+            "currencyName": "EGYPTIAN POUND",
+            "currencyCode": "EGP",
+            "currencySymbol": "£"
+        },
+        "geo": {
+            "latitude": 26.820553,
+            "longitude": 30.802498
+        },
+        "capital": "CAIRO",
+        "phone": "20"
+    },
+    {
+        "code": "SV",
+        "name": "EL SALVADOR",
+        "currency": {
+            "currencyName": "EL SALVADOR COLON",
+            "currencyCode": "SVC",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 13.794185,
+            "longitude": -88.89653
+        },
+        "capital": "SAN SALVADOR",
+        "phone": "503"
+    },
+    {
+        "code": "GQ",
+        "name": "EQUATORIAL GUINEA",
+        "currency": {
+            "currencyName": "CFA FRANC BEAC",
+            "currencyCode": "XAF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 1.650801,
+            "longitude": 10.267895
+        },
+        "capital": "MALABO",
+        "phone": "240"
+    },
+    {
+        "code": "ER",
+        "name": "ERITREA",
+        "currency": {
+            "currencyName": "ERITREAN NAKFA",
+            "currencyCode": "ERN",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 15.179384,
+            "longitude": 39.782334
+        },
+        "capital": "ASMARA",
+        "phone": "291"
+    },
+    {
+        "code": "EE",
+        "name": "ESTONIA",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 58.595272,
+            "longitude": 25.013607
+        },
+        "capital": "TALLINN",
+        "phone": "372"
+    },
+    {
+        "code": "ET",
+        "name": "ETHIOPIA",
+        "currency": {
+            "currencyName": "ETHIOPIAN BIRR",
+            "currencyCode": "ETB",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 9.145,
+            "longitude": 40.489673
+        },
+        "capital": "ADDIS ABABA",
+        "phone": "251"
+    },
+    {
+        "code": "EU.INT",
+        "name": "EUROPEAN UNION",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": "",
+            "longitude": ""
+        },
+        "capital": "BRUSSELS",
+        "phone": ""
+    },
+    {
+        "code": "FK",
+        "name": "FALKLAND ISLANDS (MALVINAS)",
+        "currency": {
+            "currencyName": "FALKLAND ISLANDS POUND",
+            "currencyCode": "FKP",
+            "currencySymbol": "£"
+        },
+        "geo": {
+            "latitude": -51.796253,
+            "longitude": -59.523613
+        },
+        "capital": "STANLEY",
+        "phone": "500"
+    },
+    {
+        "code": "FO",
+        "name": "FAROE ISLANDS",
+        "currency": {
+            "currencyName": "DANISH KRONE",
+            "currencyCode": "DKK",
+            "currencySymbol": "kr"
+        },
+        "geo": {
+            "latitude": 61.892635,
+            "longitude": -6.911806
+        },
+        "capital": "TORSHAVN",
+        "phone": "298"
+    },
+    {
+        "code": "FJ",
+        "name": "FIJI",
+        "currency": {
+            "currencyName": "FIJI DOLLAR",
+            "currencyCode": "FJD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -16.578193,
+            "longitude": 179.414413
+        },
+        "capital": "SUVA",
+        "phone": "679"
+    },
+    {
+        "code": "FI",
+        "name": "FINLAND",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 61.92411,
+            "longitude": 25.748151
+        },
+        "capital": "HELSINKI",
+        "phone": "358"
+    },
+    {
+        "code": "FR",
+        "name": "FRANCE",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 46.227638,
+            "longitude": 2.213749
+        },
+        "capital": "PARIS",
+        "phone": "33"
+    },
+    {
+        "code": "GF",
+        "name": "FRENCH GUIANA",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 3.933889,
+            "longitude": -53.125782
+        },
+        "capital": "CAYENNE",
+        "phone": "594"
+    },
+    {
+        "code": "TF",
+        "name": "FRENCH SOUTHERN TERRITORIES",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": -49.280366,
+            "longitude": 69.348557
+        },
+        "capital": "NONE",
+        "phone": ""
+    },
+    {
+        "code": "GA",
+        "name": "GABON",
+        "currency": {
+            "currencyName": "CFA FRANC BEAC",
+            "currencyCode": "XAF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -0.803689,
+            "longitude": 11.609444
+        },
+        "capital": "LIBREVILLE",
+        "phone": "241"
+    },
+    {
+        "code": "GM",
+        "name": "GAMBIA",
+        "currency": {
+            "currencyName": "GAMBIAN DALASI",
+            "currencyCode": "GMD",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 13.443182,
+            "longitude": -15.310139
+        },
+        "capital": "BANJUL",
+        "phone": "220"
+    },
+    {
+        "code": "GE",
+        "name": "GEORGIA",
+        "currency": {
+            "currencyName": "GEORGIAN LARI",
+            "currencyCode": "GEL",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 42.315407,
+            "longitude": 43.356892
+        },
+        "capital": "TBILISI",
+        "phone": "995"
+    },
+    {
+        "code": "DE",
+        "name": "GERMANY",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 51.165691,
+            "longitude": 10.451526
+        },
+        "capital": "BERLIN",
+        "phone": "49"
+    },
+    {
+        "code": "GH",
+        "name": "GHANA",
+        "currency": {
+            "currencyName": "GHANAIAN CEDI",
+            "currencyCode": "GHS",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 7.946527,
+            "longitude": -1.023194
+        },
+        "capital": "ACCRA",
+        "phone": "233"
+    },
+    {
+        "code": "GI",
+        "name": "GIBRALTAR",
+        "currency": {
+            "currencyName": "GIBRALTAR POUND",
+            "currencyCode": "GIP",
+            "currencySymbol": "£"
+        },
+        "geo": {
+            "latitude": 36.137741,
+            "longitude": -5.345374
+        },
+        "capital": "GIBRALTAR",
+        "phone": "350"
+    },
+    {
+        "code": "GB",
+        "name": "GREAT BRITAIN",
+        "currency": {
+            "currencyName": "POUND STERLING",
+            "currencyCode": "GBP",
+            "currencySymbol": "£"
+        },
+        "geo": {
+            "latitude": 55.378051,
+            "longitude": -3.435973
+        },
+        "capital": "LONDON",
+        "phone": "44"
+    },
+    {
+        "code": "GR",
+        "name": "GREECE",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 39.074208,
+            "longitude": 21.824312
+        },
+        "capital": "ATHENS",
+        "phone": "30"
+    },
+    {
+        "code": "GL",
+        "name": "GREENLAND",
+        "currency": {
+            "currencyName": "DANISH KRONE",
+            "currencyCode": "DKK",
+            "currencySymbol": "kr"
+        },
+        "geo": {
+            "latitude": 71.706936,
+            "longitude": -42.604303
+        },
+        "capital": "GODTHAB",
+        "phone": "299"
+    },
+    {
+        "code": "GD",
+        "name": "GRENADA",
+        "currency": {
+            "currencyName": "EAST CARRIBEAN DOLLAR",
+            "currencyCode": "XCD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 12.262776,
+            "longitude": -61.604171
+        },
+        "capital": "ST. GEORGE'S",
+        "phone": "1-473"
+    },
+    {
+        "code": "GP",
+        "name": "GUADELOUPE (FRENCH)",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 16.995971,
+            "longitude": -62.067641
+        },
+        "capital": "BASSE-TERRE",
+        "phone": "590"
+    },
+    {
+        "code": "GU",
+        "name": "GUAM (USA)",
+        "currency": {
+            "currencyName": "US DOLLAR",
+            "currencyCode": "USD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 13.444304,
+            "longitude": 144.793731
+        },
+        "capital": "AGANA",
+        "phone": "1-671"
+    },
+    {
+        "code": "GT",
+        "name": "GUATEMALA",
+        "currency": {
+            "currencyName": "GUATEMALAN QUETZAL",
+            "currencyCode": "QTQ",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 15.783471,
+            "longitude": -90.230759
+        },
+        "capital": "GUATEMALA CITY",
+        "phone": "502"
+    },
+    {
+        "code": "GG",
+        "name": "GUERNSEY",
+        "currency": {
+            "currencyName": "POUND STERLING",
+            "currencyCode": "GGP",
+            "currencySymbol": "£"
+        },
+        "geo": {
+            "latitude": 49.465691,
+            "longitude": -2.585278
+        },
+        "capital": "ST. PETER PORT",
+        "phone": ""
+    },
+    {
+        "code": "GN",
+        "name": "GUINEA",
+        "currency": {
+            "currencyName": "GUINEA FRANC",
+            "currencyCode": "GNF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 9.945587,
+            "longitude": -9.696645
+        },
+        "capital": "CONAKRY",
+        "phone": "224"
+    },
+    {
+        "code": "GW",
+        "name": "GUINEA BISSAU",
+        "currency": {
+            "currencyName": "GUINEA-BISSAU PESO",
+            "currencyCode": "GWP",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 11.803749,
+            "longitude": -15.180413
+        },
+        "capital": "BISSAU",
+        "phone": "245"
+    },
+    {
+        "code": "GY",
+        "name": "GUYANA",
+        "currency": {
+            "currencyName": "GUYANA DOLLAR",
+            "currencyCode": "GYD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 4.860416,
+            "longitude": -58.93018
+        },
+        "capital": "GEORGETOWN",
+        "phone": "592"
+    },
+    {
+        "code": "HT",
+        "name": "HAITI",
+        "currency": {
+            "currencyName": "HAITIAN GOURDE",
+            "currencyCode": "HTG",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 18.971187,
+            "longitude": -72.285215
+        },
+        "capital": "PORT-AU-PRINCE",
+        "phone": "509"
+    },
+    {
+        "code": "HM",
+        "name": "HEARD ISLAND AND MCDONALD ISLANDS",
+        "currency": {
+            "currencyName": "AUSTRALIAN DOLLAR",
+            "currencyCode": "AUD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -53.08181,
+            "longitude": 73.504158
+        },
+        "capital": "NONE",
+        "phone": ""
+    },
+    {
+        "code": "HN",
+        "name": "HONDURAS",
+        "currency": {
+            "currencyName": "HONDURAN LEMPIRA",
+            "currencyCode": "HNL",
+            "currencySymbol": "L"
+        },
+        "geo": {
+            "latitude": 15.199999,
+            "longitude": -86.241905
+        },
+        "capital": "TEGUCIGALPA",
+        "phone": "504"
+    },
+    {
+        "code": "HK",
+        "name": "HONG KONG",
+        "currency": {
+            "currencyName": "HONG KONG DOLLAR",
+            "currencyCode": "HKD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 22.396428,
+            "longitude": 114.109497
+        },
+        "capital": "VICTORIA",
+        "phone": "852"
+    },
+    {
+        "code": "HU",
+        "name": "HUNGARY",
+        "currency": {
+            "currencyName": "HUNGARIAN FORINT",
+            "currencyCode": "HUF",
+            "currencySymbol": "Ft"
+        },
+        "geo": {
+            "latitude": 47.162494,
+            "longitude": 19.503304
+        },
+        "capital": "BUDAPEST",
+        "phone": "36"
+    },
+    {
+        "code": "IS",
+        "name": "ICELAND",
+        "currency": {
+            "currencyName": "ICELAND KRONA",
+            "currencyCode": "ISK",
+            "currencySymbol": "kr"
+        },
+        "geo": {
+            "latitude": 64.963051,
+            "longitude": -19.020835
+        },
+        "capital": "REYKJAVIK",
+        "phone": "354"
+    },
+    {
+        "code": "IN",
+        "name": "INDIA",
+        "currency": {
+            "currencyName": "INDIAN RUPEE",
+            "currencyCode": "INR",
+            "currencySymbol": "₹"
+        },
+        "geo": {
+            "latitude": 20.593684,
+            "longitude": 78.96288
+        },
+        "capital": "NEW DELHI",
+        "phone": "91"
+    },
+    {
+        "code": "ID",
+        "name": "INDONESIA",
+        "currency": {
+            "currencyName": "INDONESIAN RUPIAH",
+            "currencyCode": "IDR",
+            "currencySymbol": "Rp"
+        },
+        "geo": {
+            "latitude": -0.789275,
+            "longitude": 113.921327
+        },
+        "capital": "JAKARTA",
+        "phone": "62"
+    },
+    {
+        "code": "INT",
+        "name": "INTERNATIONAL",
+        "currency": {
+            "currencyName": "",
+            "currencyCode": "",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": "",
+            "longitude": ""
+        },
+        "capital": "",
+        "phone": ""
+    },
+    {
+        "code": "IR",
+        "name": "IRAN",
+        "currency": {
+            "currencyName": "IRANIAN RIAL",
+            "currencyCode": "IRR",
+            "currencySymbol": "﷼"
+        },
+        "geo": {
+            "latitude": 32.427908,
+            "longitude": 53.688046
+        },
+        "capital": "TEHRAN",
+        "phone": "98"
+    },
+    {
+        "code": "IQ",
+        "name": "IRAQ",
+        "currency": {
+            "currencyName": "IRAQI DINAR",
+            "currencyCode": "IQD",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 33.223191,
+            "longitude": 43.679291
+        },
+        "capital": "BAGHDAD",
+        "phone": "964"
+    },
+    {
+        "code": "IE",
+        "name": "IRELAND",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 53.41291,
+            "longitude": -8.24389
+        },
+        "capital": "DUBLIN",
+        "phone": "353"
+    },
+    {
+        "code": "IM",
+        "name": "ISLE OF MAN",
+        "currency": {
+            "currencyName": "POUND STERLING",
+            "currencyCode": "GBP",
+            "currencySymbol": "£"
+        },
+        "geo": {
+            "latitude": 54.236107,
+            "longitude": -4.548056
+        },
+        "capital": "DOUGLAS",
+        "phone": ""
+    },
+    {
+        "code": "IL",
+        "name": "ISRAEL",
+        "currency": {
+            "currencyName": "ISRAELI NEW SHEKEL",
+            "currencyCode": "ILS",
+            "currencySymbol": "₪"
+        },
+        "geo": {
+            "latitude": 31.046051,
+            "longitude": 34.851612
+        },
+        "capital": "JERUSALEM",
+        "phone": "972"
+    },
+    {
+        "code": "IT",
+        "name": "ITALY",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 41.87194,
+            "longitude": 12.56738
+        },
+        "capital": "ROME",
+        "phone": "39"
+    },
+    {
+        "code": "CI",
+        "name": "IVORY COAST",
+        "currency": {
+            "currencyName": "CFA FRANC BCEAO",
+            "currencyCode": "XOF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 7.539989,
+            "longitude": -5.54708
+        },
+        "capital": "ABIDJAN",
+        "phone": "225"
+    },
+    {
+        "code": "JM",
+        "name": "JAMAICA",
+        "currency": {
+            "currencyName": "JAMAICAN DOLLAR",
+            "currencyCode": "JMD",
+            "currencySymbol": "J$"
+        },
+        "geo": {
+            "latitude": 18.109581,
+            "longitude": -77.297508
+        },
+        "capital": "KINGSTON",
+        "phone": "1-876"
+    },
+    {
+        "code": "JP",
+        "name": "JAPAN",
+        "currency": {
+            "currencyName": "JAPANESE YEN",
+            "currencyCode": "JPY",
+            "currencySymbol": "¥"
+        },
+        "geo": {
+            "latitude": 36.204824,
+            "longitude": 138.252924
+        },
+        "capital": "TOKYO",
+        "phone": "81"
+    },
+    {
+        "code": "JE",
+        "name": "JERSEY",
+        "currency": {
+            "currencyName": "POUND STERLING",
+            "currencyCode": "GBP",
+            "currencySymbol": "£"
+        },
+        "geo": {
+            "latitude": 49.214439,
+            "longitude": -2.13125
+        },
+        "capital": "SAINT HELIER",
+        "phone": ""
+    },
+    {
+        "code": "JO",
+        "name": "JORDAN",
+        "currency": {
+            "currencyName": "JORDANIAN DINAR",
+            "currencyCode": "JOD",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 30.585164,
+            "longitude": 36.238414
+        },
+        "capital": "AMMAN",
+        "phone": "962"
+    },
+    {
+        "code": "KZ",
+        "name": "KAZAKHSTAN",
+        "currency": {
+            "currencyName": "KAZAKHSTAN TENGE",
+            "currencyCode": "KZT",
+            "currencySymbol": "лв"
+        },
+        "geo": {
+            "latitude": 48.019573,
+            "longitude": 66.923684
+        },
+        "capital": "ASTANA",
+        "phone": "7"
+    },
+    {
+        "code": "KE",
+        "name": "KENYA",
+        "currency": {
+            "currencyName": "KENYAN SHILLING",
+            "currencyCode": "KES",
+            "currencySymbol": "KSh"
+        },
+        "geo": {
+            "latitude": -0.023559,
+            "longitude": 37.906193
+        },
+        "capital": "NAIROBI",
+        "phone": "254"
+    },
+    {
+        "code": "KI",
+        "name": "KIRIBATI",
+        "currency": {
+            "currencyName": "AUSTRALIAN DOLLAR",
+            "currencyCode": "AUD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -3.370417,
+            "longitude": -168.734039
+        },
+        "capital": "TARAWA",
+        "phone": "686"
+    },
+    {
+        "code": "KP",
+        "name": "KOREA-NORTH",
+        "currency": {
+            "currencyName": "NORTH KOREAN WON",
+            "currencyCode": "KPW",
+            "currencySymbol": "₩"
+        },
+        "geo": {
+            "latitude": 40.339852,
+            "longitude": 127.510093
+        },
+        "capital": "PYONGYANG",
+        "phone": "850"
+    },
+    {
+        "code": "KR",
+        "name": "KOREA-SOUTH",
+        "currency": {
+            "currencyName": "KOREAN WON",
+            "currencyCode": "KRW",
+            "currencySymbol": "₩"
+        },
+        "geo": {
+            "latitude": 35.907757,
+            "longitude": 127.766922
+        },
+        "capital": "SEOUL",
+        "phone": "82"
+    },
+    {
+        "code": "KW",
+        "name": "KUWAIT",
+        "currency": {
+            "currencyName": "KUWAITI DINAR",
+            "currencyCode": "KWD",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 29.31166,
+            "longitude": 47.481766
+        },
+        "capital": "KUWAIT CITY",
+        "phone": "965"
+    },
+    {
+        "code": "KG",
+        "name": "KYRGYZSTAN",
+        "currency": {
+            "currencyName": "SOM",
+            "currencyCode": "KGS",
+            "currencySymbol": "лв"
+        },
+        "geo": {
+            "latitude": 41.20438,
+            "longitude": 74.766098
+        },
+        "capital": "BISHKEK",
+        "phone": "996"
+    },
+    {
+        "code": "LA",
+        "name": "LAOS",
+        "currency": {
+            "currencyName": "LAO KIP",
+            "currencyCode": "LAK",
+            "currencySymbol": "₭"
+        },
+        "geo": {
+            "latitude": 19.85627,
+            "longitude": 102.495496
+        },
+        "capital": "VIENTIANE",
+        "phone": "856"
+    },
+    {
+        "code": "LV",
+        "name": "LATVIA",
+        "currency": {
+            "currencyName": "LATVIAN LATS",
+            "currencyCode": "LVL",
+            "currencySymbol": "Ls"
+        },
+        "geo": {
+            "latitude": 56.879635,
+            "longitude": 24.603189
+        },
+        "capital": "RIGA",
+        "phone": "371"
+    },
+    {
+        "code": "LB",
+        "name": "LEBANON",
+        "currency": {
+            "currencyName": "LEBANESE POUND",
+            "currencyCode": "LBP",
+            "currencySymbol": "£"
+        },
+        "geo": {
+            "latitude": 33.854721,
+            "longitude": 35.862285
+        },
+        "capital": "BEIRUT",
+        "phone": "961"
+    },
+    {
+        "code": "LS",
+        "name": "LESOTHO",
+        "currency": {
+            "currencyName": "LESOTHO LOTI",
+            "currencyCode": "LSL",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -29.609988,
+            "longitude": 28.233608
+        },
+        "capital": "MASERU",
+        "phone": "266"
+    },
+    {
+        "code": "LR",
+        "name": "LIBERIA",
+        "currency": {
+            "currencyName": "LIBERIAN DOLLAR",
+            "currencyCode": "LRD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 6.428055,
+            "longitude": -9.429499
+        },
+        "capital": "MONROVIA",
+        "phone": "231"
+    },
+    {
+        "code": "LY",
+        "name": "LIBYA",
+        "currency": {
+            "currencyName": "LIBYAN DINAR",
+            "currencyCode": "LYD",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 26.3351,
+            "longitude": 17.228331
+        },
+        "capital": "TRIPOLI",
+        "phone": "218"
+    },
+    {
+        "code": "LI",
+        "name": "LIECHTENSTEIN",
+        "currency": {
+            "currencyName": "SWISS FRANC",
+            "currencyCode": "CHF",
+            "currencySymbol": "CHF"
+        },
+        "geo": {
+            "latitude": 47.166,
+            "longitude": 9.555373
+        },
+        "capital": "VADUZ",
+        "phone": "423"
+    },
+    {
+        "code": "LT",
+        "name": "LITHUANIA",
+        "currency": {
+            "currencyName": "LITHUANIAN LITAS",
+            "currencyCode": "LTL",
+            "currencySymbol": "Lt"
+        },
+        "geo": {
+            "latitude": 55.169438,
+            "longitude": 23.881275
+        },
+        "capital": "VILNIUS",
+        "phone": "370"
+    },
+    {
+        "code": "LU",
+        "name": "LUXEMBOURG",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 49.815273,
+            "longitude": 6.129583
+        },
+        "capital": "LUXEMBOURG",
+        "phone": "352"
+    },
+    {
+        "code": "MO",
+        "name": "MACAU",
+        "currency": {
+            "currencyName": "MACAU PATACA",
+            "currencyCode": "MOP",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 22.198745,
+            "longitude": 113.543873
+        },
+        "capital": "MACAU",
+        "phone": "853"
+    },
+    {
+        "code": "MK",
+        "name": "MACEDONIA",
+        "currency": {
+            "currencyName": "DENAR",
+            "currencyCode": "MKD",
+            "currencySymbol": "ден"
+        },
+        "geo": {
+            "latitude": 41.608635,
+            "longitude": 21.745275
+        },
+        "capital": "SKOPJE",
+        "phone": "389"
+    },
+    {
+        "code": "MG",
+        "name": "MADAGASCAR",
+        "currency": {
+            "currencyName": "MALAGASY FRANC",
+            "currencyCode": "MGF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -18.766947,
+            "longitude": 46.869107
+        },
+        "capital": "ANTANANARIVO",
+        "phone": "261"
+    },
+    {
+        "code": "MW",
+        "name": "MALAWI",
+        "currency": {
+            "currencyName": "MALAWI KWACHA",
+            "currencyCode": "MWK",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -13.254308,
+            "longitude": 34.301525
+        },
+        "capital": "LILONGWE",
+        "phone": "265"
+    },
+    {
+        "code": "MY",
+        "name": "MALAYSIA",
+        "currency": {
+            "currencyName": "MALAYSIAN RINGGIT",
+            "currencyCode": "MYR",
+            "currencySymbol": "RM"
+        },
+        "geo": {
+            "latitude": 4.210484,
+            "longitude": 101.975766
+        },
+        "capital": "KUALA LUMPUR",
+        "phone": "60"
+    },
+    {
+        "code": "MV",
+        "name": "MALDIVES",
+        "currency": {
+            "currencyName": "MALDIVE RUFIYAA",
+            "currencyCode": "MVR",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 3.202778,
+            "longitude": 73.22068
+        },
+        "capital": "MALE",
+        "phone": "960"
+    },
+    {
+        "code": "ML",
+        "name": "MALI",
+        "currency": {
+            "currencyName": "CFA FRANC BCEAO",
+            "currencyCode": "XOF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 17.570692,
+            "longitude": -3.996166
+        },
+        "capital": "BAMAKO",
+        "phone": "223"
+    },
+    {
+        "code": "MT",
+        "name": "MALTA",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 35.937496,
+            "longitude": 14.375416
+        },
+        "capital": "VALLETTA",
+        "phone": "356"
+    },
+    {
+        "code": "MH",
+        "name": "MARSHALL ISLANDS",
+        "currency": {
+            "currencyName": "US DOLLAR",
+            "currencyCode": "USD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 7.131474,
+            "longitude": 171.184478
+        },
+        "capital": "MAJURO",
+        "phone": "692"
+    },
+    {
+        "code": "MQ",
+        "name": "MARTINIQUE (FRENCH)",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 14.641528,
+            "longitude": -61.024174
+        },
+        "capital": "FORT-DE-FRANCE",
+        "phone": "596"
+    },
+    {
+        "code": "MR",
+        "name": "MAURITANIA",
+        "currency": {
+            "currencyName": "MAURITANIAN OUGUIYA",
+            "currencyCode": "MRO",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 21.00789,
+            "longitude": -10.940835
+        },
+        "capital": "NOUAKCHOTT",
+        "phone": "222"
+    },
+    {
+        "code": "MU",
+        "name": "MAURITIUS",
+        "currency": {
+            "currencyName": "MAURITIUS RUPEE",
+            "currencyCode": "MUR",
+            "currencySymbol": "₨"
+        },
+        "geo": {
+            "latitude": -20.348404,
+            "longitude": 57.552152
+        },
+        "capital": "PORT LOUIS",
+        "phone": "230"
+    },
+    {
+        "code": "YT",
+        "name": "MAYOTTE",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": -12.8275,
+            "longitude": 45.166244
+        },
+        "capital": "DZAOUDZI",
+        "phone": "269"
+    },
+    {
+        "code": "MX",
+        "name": "MEXICO",
+        "currency": {
+            "currencyName": "MEXICAN NUEVO PESO",
+            "currencyCode": "MXN",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 23.634501,
+            "longitude": -102.552784
+        },
+        "capital": "MEXICO CITY",
+        "phone": "52"
+    },
+    {
+        "code": "FM",
+        "name": "MICRONESIA",
+        "currency": {
+            "currencyName": "US DOLLAR",
+            "currencyCode": "USD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 7.425554,
+            "longitude": 150.550812
+        },
+        "capital": "PALIKIR",
+        "phone": "691"
+    },
+    {
+        "code": "MD",
+        "name": "MOLDOVA",
+        "currency": {
+            "currencyName": "MOLDOVAN LEU",
+            "currencyCode": "MDL",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 47.411631,
+            "longitude": 28.369885
+        },
+        "capital": "KISHINEV",
+        "phone": "373"
+    },
+    {
+        "code": "MC",
+        "name": "MONACO",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 43.750298,
+            "longitude": 7.412841
+        },
+        "capital": "MONACO",
+        "phone": "377"
+    },
+    {
+        "code": "MN",
+        "name": "MONGOLIA",
+        "currency": {
+            "currencyName": "MONGOLIAN TUGRIK",
+            "currencyCode": "MNT",
+            "currencySymbol": "₮"
+        },
+        "geo": {
+            "latitude": 46.862496,
+            "longitude": 103.846656
+        },
+        "capital": "ULAN BATOR",
+        "phone": "976"
+    },
+    {
+        "code": "ME",
+        "name": "MONTENEGRO",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 42.708678,
+            "longitude": 19.37439
+        },
+        "capital": "PODGORICA",
+        "phone": "382"
+    },
+    {
+        "code": "MS",
+        "name": "MONTSERRAT",
+        "currency": {
+            "currencyName": "EAST CARIBBEAN DOLLAR",
+            "currencyCode": "XCD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 16.742498,
+            "longitude": -62.187366
+        },
+        "capital": "PLYMOUTH",
+        "phone": "1-664"
+    },
+    {
+        "code": "MA",
+        "name": "MOROCCO",
+        "currency": {
+            "currencyName": "MOROCCAN DIRHAM",
+            "currencyCode": "MAD",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 31.791702,
+            "longitude": -7.09262
+        },
+        "capital": "RABAT",
+        "phone": "212"
+    },
+    {
+        "code": "MZ",
+        "name": "MOZAMBIQUE",
+        "currency": {
+            "currencyName": "MOZAMBIQUE METICAL",
+            "currencyCode": "MZN",
+            "currencySymbol": "MT"
+        },
+        "geo": {
+            "latitude": -18.665695,
+            "longitude": 35.529562
+        },
+        "capital": "MAPUTO",
+        "phone": "258"
+    },
+    {
+        "code": "MM",
+        "name": "MYANMAR",
+        "currency": {
+            "currencyName": "MYANMAR KYAT",
+            "currencyCode": "MMK",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 21.913965,
+            "longitude": 95.956223
+        },
+        "capital": "NAYPYIDAW",
+        "phone": "95"
+    },
+    {
+        "code": "NA",
+        "name": "NAMIBIA",
+        "currency": {
+            "currencyName": "NAMIBIAN DOLLAR",
+            "currencyCode": "NAD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -22.95764,
+            "longitude": 18.49041
+        },
+        "capital": "WINDHOEK",
+        "phone": "264"
+    },
+    {
+        "code": "NR",
+        "name": "NAURU",
+        "currency": {
+            "currencyName": "AUSTRALIAN DOLLAR",
+            "currencyCode": "AUD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -0.522778,
+            "longitude": 166.931503
+        },
+        "capital": "YAREN",
+        "phone": "674"
+    },
+    {
+        "code": "NP",
+        "name": "NEPAL",
+        "currency": {
+            "currencyName": "NEPALESE RUPEE",
+            "currencyCode": "NPR",
+            "currencySymbol": "₨"
+        },
+        "geo": {
+            "latitude": 28.394857,
+            "longitude": 84.124008
+        },
+        "capital": "KATHMANDU",
+        "phone": "977"
+    },
+    {
+        "code": "NL",
+        "name": "NETHERLANDS",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 52.132633,
+            "longitude": 5.291266
+        },
+        "capital": "AMSTERDAM",
+        "phone": "31"
+    },
+    {
+        "code": "AN",
+        "name": "NETHERLANDS ANTILLES",
+        "currency": {
+            "currencyName": "NETHERLANDS ANTILLEAN GUILDER",
+            "currencyCode": "ANG",
+            "currencySymbol": "ƒ"
+        },
+        "geo": {
+            "latitude": 12.226079,
+            "longitude": -69.060087
+        },
+        "capital": "WILLEMSTAD",
+        "phone": "599"
+    },
+    {
+        "code": "NC",
+        "name": "NEW CALEDONIA (FRENCH)",
+        "currency": {
+            "currencyName": "CFP FRANC",
+            "currencyCode": "XPF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -20.904305,
+            "longitude": 165.618042
+        },
+        "capital": "NOUMEA",
+        "phone": "687"
+    },
+    {
+        "code": "NZ",
+        "name": "NEW ZEALAND",
+        "currency": {
+            "currencyName": "NEW ZEALAND DOLLAR",
+            "currencyCode": "NZD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -40.900557,
+            "longitude": 174.885971
+        },
+        "capital": "WELLINGTON",
+        "phone": "64"
+    },
+    {
+        "code": "NI",
+        "name": "NICARAGUA",
+        "currency": {
+            "currencyName": "NICARAGUAN CORDOBA ORO",
+            "currencyCode": "NIO",
+            "currencySymbol": "C$"
+        },
+        "geo": {
+            "latitude": 12.865416,
+            "longitude": -85.207229
+        },
+        "capital": "MANAGUA",
+        "phone": "505"
+    },
+    {
+        "code": "NE",
+        "name": "NIGER",
+        "currency": {
+            "currencyName": "CFA FRANC BCEAO",
+            "currencyCode": "XOF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 17.607789,
+            "longitude": 8.081666
+        },
+        "capital": "NIAMEY",
+        "phone": "227"
+    },
+    {
+        "code": "NG",
+        "name": "NIGERIA",
+        "currency": {
+            "currencyName": "NIGERIAN NAIRA",
+            "currencyCode": "NGN",
+            "currencySymbol": "₦"
+        },
+        "geo": {
+            "latitude": 9.081999,
+            "longitude": 8.675277
+        },
+        "capital": "LAGOS",
+        "phone": "234"
+    },
+    {
+        "code": "NU",
+        "name": "NIUE",
+        "currency": {
+            "currencyName": "NEW ZEALAND DOLLAR",
+            "currencyCode": "NZD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -19.054445,
+            "longitude": -169.867233
+        },
+        "capital": "ALOFI",
+        "phone": "683"
+    },
+    {
+        "code": "NF",
+        "name": "NORFOLK ISLAND",
+        "currency": {
+            "currencyName": "AUSTRALIAN DOLLAR",
+            "currencyCode": "AUD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -29.040835,
+            "longitude": 167.954712
+        },
+        "capital": "KINGSTON",
+        "phone": "672"
+    },
+    {
+        "code": "MP",
+        "name": "NORTHERN MARIANA ISLANDS",
+        "currency": {
+            "currencyName": "US DOLLAR",
+            "currencyCode": "USD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 17.33083,
+            "longitude": 145.38469
+        },
+        "capital": "SAIPAN",
+        "phone": "670"
+    },
+    {
+        "code": "NO",
+        "name": "NORWAY",
+        "currency": {
+            "currencyName": "NORWEGIAN KRONE",
+            "currencyCode": "NOK",
+            "currencySymbol": "kr"
+        },
+        "geo": {
+            "latitude": 60.472024,
+            "longitude": 8.468946
+        },
+        "capital": "OSLO",
+        "phone": "47"
+    },
+    {
+        "code": "OM",
+        "name": "OMAN",
+        "currency": {
+            "currencyName": "OMANI RIAL",
+            "currencyCode": "OMR",
+            "currencySymbol": "﷼"
+        },
+        "geo": {
+            "latitude": 21.512583,
+            "longitude": 55.923255
+        },
+        "capital": "MUSCAT",
+        "phone": "968"
+    },
+    {
+        "code": "PK",
+        "name": "PAKISTAN",
+        "currency": {
+            "currencyName": "PAKISTAN RUPEE",
+            "currencyCode": "PKR",
+            "currencySymbol": "₨"
+        },
+        "geo": {
+            "latitude": 30.375321,
+            "longitude": 69.345116
+        },
+        "capital": "ISLAMABAD",
+        "phone": "92"
+    },
+    {
+        "code": "PW",
+        "name": "PALAU",
+        "currency": {
+            "currencyName": "US DOLLAR",
+            "currencyCode": "USD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 7.51498,
+            "longitude": 134.58252
+        },
+        "capital": "KOROR",
+        "phone": "680"
+    },
+    {
+        "code": "PA",
+        "name": "PANAMA",
+        "currency": {
+            "currencyName": "PANAMANIAN BALBOA",
+            "currencyCode": "PAB",
+            "currencySymbol": "B/."
+        },
+        "geo": {
+            "latitude": 8.537981,
+            "longitude": -80.782127
+        },
+        "capital": "PANAMA CITY",
+        "phone": "507"
+    },
+    {
+        "code": "PG",
+        "name": "PAPUA NEW GUINEA",
+        "currency": {
+            "currencyName": "PAPUA NEW GUINEA KINA",
+            "currencyCode": "PGK",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -6.314993,
+            "longitude": 143.95555
+        },
+        "capital": "PORT MORESBY",
+        "phone": "675"
+    },
+    {
+        "code": "PY",
+        "name": "PARAGUAY",
+        "currency": {
+            "currencyName": "PARAGUAY GUARANI",
+            "currencyCode": "PYG",
+            "currencySymbol": "Gs"
+        },
+        "geo": {
+            "latitude": -23.442503,
+            "longitude": -58.443832
+        },
+        "capital": "ASUNCION",
+        "phone": "595"
+    },
+    {
+        "code": "PE",
+        "name": "PERU",
+        "currency": {
+            "currencyName": "PERUVIAN NUEVO SOL",
+            "currencyCode": "PEN",
+            "currencySymbol": "S/."
+        },
+        "geo": {
+            "latitude": -9.189967,
+            "longitude": -75.015152
+        },
+        "capital": "LIMA",
+        "phone": "51"
+    },
+    {
+        "code": "PH",
+        "name": "PHILIPPINES",
+        "currency": {
+            "currencyName": "PHILIPPINE PESO",
+            "currencyCode": "PHP",
+            "currencySymbol": "₱"
+        },
+        "geo": {
+            "latitude": 12.879721,
+            "longitude": 121.774017
+        },
+        "capital": "MANILA",
+        "phone": "63"
+    },
+    {
+        "code": "PN",
+        "name": "PITCAIRN ISLAND",
+        "currency": {
+            "currencyName": "NEW ZEALAND DOLLAR",
+            "currencyCode": "NZD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -24.703615,
+            "longitude": -127.439308
+        },
+        "capital": "ADAMSTOWN",
+        "phone": ""
+    },
+    {
+        "code": "PL",
+        "name": "POLAND",
+        "currency": {
+            "currencyName": "POLISH ZLOTY",
+            "currencyCode": "PLN",
+            "currencySymbol": "zł"
+        },
+        "geo": {
+            "latitude": 51.919438,
+            "longitude": 19.145136
+        },
+        "capital": "WARSAW",
+        "phone": "48"
+    },
+    {
+        "code": "PF",
+        "name": "POLYNESIA (FRENCH)",
+        "currency": {
+            "currencyName": "CFP FRANC",
+            "currencyCode": "XPF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -17.679742,
+            "longitude": -149.406843
+        },
+        "capital": "PAPEETE",
+        "phone": "689"
+    },
+    {
+        "code": "PT",
+        "name": "PORTUGAL",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 39.399872,
+            "longitude": -8.224454
+        },
+        "capital": "LISBON",
+        "phone": "351"
+    },
+    {
+        "code": "PR",
+        "name": "PUERTO RICO",
+        "currency": {
+            "currencyName": "US DOLLAR",
+            "currencyCode": "USD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 18.220833,
+            "longitude": -66.590149
+        },
+        "capital": "SAN JUAN",
+        "phone": "1-787"
+    },
+    {
+        "code": "QA",
+        "name": "QATAR",
+        "currency": {
+            "currencyName": "QATARI RIAL",
+            "currencyCode": "QAR",
+            "currencySymbol": "﷼"
+        },
+        "geo": {
+            "latitude": 25.354826,
+            "longitude": 51.183884
+        },
+        "capital": "DOHA",
+        "phone": "974"
+    },
+    {
+        "code": "RE",
+        "name": "REUNION (FRENCH)",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": -21.115141,
+            "longitude": 55.536384
+        },
+        "capital": "SAINT-DENIS",
+        "phone": "262"
+    },
+    {
+        "code": "RO",
+        "name": "ROMANIA",
+        "currency": {
+            "currencyName": "ROMANIAN NEW LEU",
+            "currencyCode": "RON",
+            "currencySymbol": "lei"
+        },
+        "geo": {
+            "latitude": 45.943161,
+            "longitude": 24.96676
+        },
+        "capital": "BUCHAREST",
+        "phone": "40"
+    },
+    {
+        "code": "RU",
+        "name": "RUSSIA",
+        "currency": {
+            "currencyName": "RUSSIAN RUBLE",
+            "currencyCode": "RUB",
+            "currencySymbol": "₽"
+        },
+        "geo": {
+            "latitude": 61.52401,
+            "longitude": 105.318756
+        },
+        "capital": "MOSCOW",
+        "phone": "7"
+    },
+    {
+        "code": "RW",
+        "name": "RWANDA",
+        "currency": {
+            "currencyName": "RWANDA FRANC",
+            "currencyCode": "RWF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -1.940278,
+            "longitude": 29.873888
+        },
+        "capital": "KIGALI",
+        "phone": "250"
+    },
+    {
+        "code": "SH",
+        "name": "SAINT HELENA",
+        "currency": {
+            "currencyName": "ST. HELENA POUND",
+            "currencyCode": "SHP",
+            "currencySymbol": "£"
+        },
+        "geo": {
+            "latitude": -24.143474,
+            "longitude": -10.030696
+        },
+        "capital": "JAMESTOWN",
+        "phone": "290"
+    },
+    {
+        "code": "KN",
+        "name": "SAINT KITTS & NEVIS ANGUILLA",
+        "currency": {
+            "currencyName": "EAST CARIBBEAN DOLLAR",
+            "currencyCode": "XCD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 17.357822,
+            "longitude": -62.782998
+        },
+        "capital": "BASSETERRE",
+        "phone": "1-869"
+    },
+    {
+        "code": "LC",
+        "name": "SAINT LUCIA",
+        "currency": {
+            "currencyName": "EAST CARIBBEAN DOLLAR",
+            "currencyCode": "XCD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 13.909444,
+            "longitude": -60.978893
+        },
+        "capital": "CASTRIES",
+        "phone": "1-758"
+    },
+    {
+        "code": "PM",
+        "name": "SAINT PIERRE AND MIQUELON",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 46.941936,
+            "longitude": -56.27111
+        },
+        "capital": "ST. PIERRE",
+        "phone": "508"
+    },
+    {
+        "code": "VC",
+        "name": "SAINT VINCENT & GRENADINES",
+        "currency": {
+            "currencyName": "EAST CARIBBEAN DOLLAR",
+            "currencyCode": "XCD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 12.984305,
+            "longitude": -61.287228
+        },
+        "capital": "KINGSTOWN",
+        "phone": "1-784"
+    },
+    {
+        "code": "WS",
+        "name": "SAMOA",
+        "currency": {
+            "currencyName": "SAMOAN TALA",
+            "currencyCode": "WST",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -13.759029,
+            "longitude": -172.104629
+        },
+        "capital": "APIA",
+        "phone": "684"
+    },
+    {
+        "code": "SM",
+        "name": "SAN MARINO",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 43.94236,
+            "longitude": 12.457777
+        },
+        "capital": "SAN MARINO",
+        "phone": "378"
+    },
+    {
+        "code": "ST",
+        "name": "SAO TOME AND PRINCIPE",
+        "currency": {
+            "currencyName": "DOBRA",
+            "currencyCode": "STD",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 0.18636,
+            "longitude": 6.613081
+        },
+        "capital": "SAO TOME",
+        "phone": "239"
+    },
+    {
+        "code": "SA",
+        "name": "SAUDI ARABIA",
+        "currency": {
+            "currencyName": "SAUDI RIYAL",
+            "currencyCode": "SAR",
+            "currencySymbol": "﷼"
+        },
+        "geo": {
+            "latitude": 23.885942,
+            "longitude": 45.079162
+        },
+        "capital": "RIYADH",
+        "phone": "966"
+    },
+    {
+        "code": "SN",
+        "name": "SENEGAL",
+        "currency": {
+            "currencyName": "CFA FRANC BCEAO",
+            "currencyCode": "XOF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 14.497401,
+            "longitude": -14.452362
+        },
+        "capital": "DAKAR",
+        "phone": "221"
+    },
+    {
+        "code": "RS",
+        "name": "SERBIA",
+        "currency": {
+            "currencyName": "DINAR",
+            "currencyCode": "RSD",
+            "currencySymbol": "Дин."
+        },
+        "geo": {
+            "latitude": 44.016521,
+            "longitude": 21.005859
+        },
+        "capital": "BELGRADE",
+        "phone": "381"
+    },
+    {
+        "code": "SC",
+        "name": "SEYCHELLES",
+        "currency": {
+            "currencyName": "SEYCHELLES RUPEE",
+            "currencyCode": "SCR",
+            "currencySymbol": "₨"
+        },
+        "geo": {
+            "latitude": -4.679574,
+            "longitude": 55.491977
+        },
+        "capital": "VICTORIA",
+        "phone": "248"
+    },
+    {
+        "code": "SL",
+        "name": "SIERRA LEONE",
+        "currency": {
+            "currencyName": "SIERRA LEONE LEONE",
+            "currencyCode": "SLL",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 8.460555,
+            "longitude": -11.779889
+        },
+        "capital": "FREETOWN",
+        "phone": "232"
+    },
+    {
+        "code": "SG",
+        "name": "SINGAPORE",
+        "currency": {
+            "currencyName": "SINGAPORE DOLLAR",
+            "currencyCode": "SGD",
+            "currencySymbol": "S$"
+        },
+        "geo": {
+            "latitude": 1.352083,
+            "longitude": 103.819836
+        },
+        "capital": "SINGAPORE",
+        "phone": "65"
+    },
+    {
+        "code": "SK",
+        "name": "SLOVAKIA",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 48.669026,
+            "longitude": 19.699024
+        },
+        "capital": "BRATISLAVA",
+        "phone": "421"
+    },
+    {
+        "code": "SI",
+        "name": "SLOVENIA",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 46.151241,
+            "longitude": 14.995463
+        },
+        "capital": "LJUBLJANA",
+        "phone": "386"
+    },
+    {
+        "code": "SB",
+        "name": "SOLOMON ISLANDS",
+        "currency": {
+            "currencyName": "SOLOMON ISLANDS DOLLAR",
+            "currencyCode": "SBD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -9.64571,
+            "longitude": 160.156194
+        },
+        "capital": "HONIARA",
+        "phone": "677"
+    },
+    {
+        "code": "SO",
+        "name": "SOMALIA",
+        "currency": {
+            "currencyName": "SOMALI SHILLING",
+            "currencyCode": "SOS",
+            "currencySymbol": "S"
+        },
+        "geo": {
+            "latitude": 5.152149,
+            "longitude": 46.199616
+        },
+        "capital": "MOGADISHU",
+        "phone": "252"
+    },
+    {
+        "code": "ZA",
+        "name": "SOUTH AFRICA",
+        "currency": {
+            "currencyName": "SOUTH AFRICAN RAND",
+            "currencyCode": "ZAR",
+            "currencySymbol": "R"
+        },
+        "geo": {
+            "latitude": -30.559482,
+            "longitude": 22.937506
+        },
+        "capital": "PRETORIA",
+        "phone": "27"
+    },
+    {
+        "code": "GS",
+        "name": "SOUTH GEORGIA & SOUTH SANDWICH ISLANDS",
+        "currency": {
+            "currencyName": "POUND STERLING",
+            "currencyCode": "GBP",
+            "currencySymbol": "£"
+        },
+        "geo": {
+            "latitude": -54.429579,
+            "longitude": -36.587909
+        },
+        "capital": "NONE",
+        "phone": ""
+    },
+    {
+        "code": "SS",
+        "name": "SOUTH SUDAN",
+        "currency": {
+            "currencyName": "SOUTH SUDAN POUND",
+            "currencyCode": "SSP",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": "",
+            "longitude": ""
+        },
+        "capital": "RAMCIEL",
+        "phone": ""
+    },
+    {
+        "code": "ES",
+        "name": "SPAIN",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 40.463667,
+            "longitude": -3.74922
+        },
+        "capital": "MADRID",
+        "phone": "34"
+    },
+    {
+        "code": "LK",
+        "name": "SRI LANKA",
+        "currency": {
+            "currencyName": "SRI LANKA RUPEE",
+            "currencyCode": "LKR",
+            "currencySymbol": "₨"
+        },
+        "geo": {
+            "latitude": 7.873054,
+            "longitude": 80.771797
+        },
+        "capital": "COLOMBO",
+        "phone": "94"
+    },
+    {
+        "code": "SD",
+        "name": "SUDAN",
+        "currency": {
+            "currencyName": "SUDANESE POUND",
+            "currencyCode": "SDG",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 12.862807,
+            "longitude": 30.217636
+        },
+        "capital": "KHARTOUM",
+        "phone": "249"
+    },
+    {
+        "code": "SR",
+        "name": "SURINAME",
+        "currency": {
+            "currencyName": "SURINAM DOLLAR",
+            "currencyCode": "SRD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 3.919305,
+            "longitude": -56.027783
+        },
+        "capital": "PARAMARIBO",
+        "phone": "597"
+    },
+    {
+        "code": "SJ",
+        "name": "SVALBARD AND JAN MAYEN ISLANDS",
+        "currency": {
+            "currencyName": "NORWEGIAN KRONE",
+            "currencyCode": "NOK",
+            "currencySymbol": "kr"
+        },
+        "geo": {
+            "latitude": 77.553604,
+            "longitude": 23.670272
+        },
+        "capital": "LONGYEARBYEN",
+        "phone": ""
+    },
+    {
+        "code": "SZ",
+        "name": "SWAZILAND",
+        "currency": {
+            "currencyName": "SWAZILAND LILANGENI",
+            "currencyCode": "SZL",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -26.522503,
+            "longitude": 31.465866
+        },
+        "capital": "MBABANE",
+        "phone": "268"
+    },
+    {
+        "code": "SE",
+        "name": "SWEDEN",
+        "currency": {
+            "currencyName": "SWEDISH KRONA",
+            "currencyCode": "SEK",
+            "currencySymbol": "kr"
+        },
+        "geo": {
+            "latitude": 60.128161,
+            "longitude": 18.643501
+        },
+        "capital": "STOCKHOLM",
+        "phone": "46"
+    },
+    {
+        "code": "CH",
+        "name": "SWITZERLAND",
+        "currency": {
+            "currencyName": "SWISS FRANC",
+            "currencyCode": "CHF",
+            "currencySymbol": "CHF"
+        },
+        "geo": {
+            "latitude": 46.818188,
+            "longitude": 8.227512
+        },
+        "capital": "BERN",
+        "phone": "41"
+    },
+    {
+        "code": "SY",
+        "name": "SYRIA",
+        "currency": {
+            "currencyName": "SYRIAN POUND",
+            "currencyCode": "SYP",
+            "currencySymbol": "£"
+        },
+        "geo": {
+            "latitude": 34.802075,
+            "longitude": 38.996815
+        },
+        "capital": "DAMASCUS",
+        "phone": "963"
+    },
+    {
+        "code": "TW",
+        "name": "TAIWAN",
+        "currency": {
+            "currencyName": "TAIWAN DOLLAR",
+            "currencyCode": "TWD",
+            "currencySymbol": "NT$"
+        },
+        "geo": {
+            "latitude": 23.69781,
+            "longitude": 120.960515
+        },
+        "capital": "TAIPEI",
+        "phone": "886"
+    },
+    {
+        "code": "TJ",
+        "name": "TAJIKISTAN",
+        "currency": {
+            "currencyName": "TAJIK SOMONI",
+            "currencyCode": "TJS",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 38.861034,
+            "longitude": 71.276093
+        },
+        "capital": "DUSHANBE",
+        "phone": "992"
+    },
+    {
+        "code": "TZ",
+        "name": "TANZANIA",
+        "currency": {
+            "currencyName": "TANZANIAN SHILLING",
+            "currencyCode": "TZS",
+            "currencySymbol": "TSh"
+        },
+        "geo": {
+            "latitude": -6.369028,
+            "longitude": 34.888822
+        },
+        "capital": "DODOMA",
+        "phone": "255"
+    },
+    {
+        "code": "TH",
+        "name": "THAILAND",
+        "currency": {
+            "currencyName": "THAI BAHT",
+            "currencyCode": "THB",
+            "currencySymbol": "฿"
+        },
+        "geo": {
+            "latitude": 15.870032,
+            "longitude": 100.992541
+        },
+        "capital": "BANGKOK",
+        "phone": "66"
+    },
+    {
+        "code": "TG",
+        "name": "TOGO",
+        "currency": {
+            "currencyName": "CFA FRANC BCEAO",
+            "currencyCode": "XOF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 8.619543,
+            "longitude": 0.824782
+        },
+        "capital": "LOME",
+        "phone": "228"
+    },
+    {
+        "code": "TK",
+        "name": "TOKELAU",
+        "currency": {
+            "currencyName": "NEW ZEALAND DOLLAR",
+            "currencyCode": "NZD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -8.967363,
+            "longitude": -171.855881
+        },
+        "capital": "NONE",
+        "phone": "690"
+    },
+    {
+        "code": "TO",
+        "name": "TONGA",
+        "currency": {
+            "currencyName": "TONGAN PA'ANGA",
+            "currencyCode": "TOP",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -21.178986,
+            "longitude": -175.198242
+        },
+        "capital": "NUKU'ALOFA",
+        "phone": "676"
+    },
+    {
+        "code": "TT",
+        "name": "TRINIDAD AND TOBAGO",
+        "currency": {
+            "currencyName": "TRINIDAD AND TOBAGO DOLLAR",
+            "currencyCode": "TTD",
+            "currencySymbol": "TT$"
+        },
+        "geo": {
+            "latitude": 10.691803,
+            "longitude": -61.222503
+        },
+        "capital": "PORT OF SPAIN",
+        "phone": "1-868"
+    },
+    {
+        "code": "TN",
+        "name": "TUNISIA",
+        "currency": {
+            "currencyName": "TUNISIAN DOLLAR",
+            "currencyCode": "TND",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 33.886917,
+            "longitude": 9.537499
+        },
+        "capital": "TUNIS",
+        "phone": "216"
+    },
+    {
+        "code": "TR",
+        "name": "TURKEY",
+        "currency": {
+            "currencyName": "TURKISH LIRA",
+            "currencyCode": "TRY",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 38.963745,
+            "longitude": 35.243322
+        },
+        "capital": "ANKARA",
+        "phone": "90"
+    },
+    {
+        "code": "TM",
+        "name": "TURKMENISTAN",
+        "currency": {
+            "currencyName": "MANAT",
+            "currencyCode": "TMT",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 38.969719,
+            "longitude": 59.556278
+        },
+        "capital": "ASHGABAT",
+        "phone": "993"
+    },
+    {
+        "code": "TC",
+        "name": "TURKS AND CAICOS ISLANDS",
+        "currency": {
+            "currencyName": "US DOLLAR",
+            "currencyCode": "USD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 21.694025,
+            "longitude": -71.797928
+        },
+        "capital": "GRAND TURK",
+        "phone": "1-649"
+    },
+    {
+        "code": "TV",
+        "name": "TUVALU",
+        "currency": {
+            "currencyName": "AUSTRALIAN DOLLAR",
+            "currencyCode": "AUD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": -7.109535,
+            "longitude": 177.64933
+        },
+        "capital": "FUNAFUTI",
+        "phone": "688"
+    },
+    {
+        "code": "UK",
+        "name": "U.K.",
+        "currency": {
+            "currencyName": "POUND STERLING",
+            "currencyCode": "GBP",
+            "currencySymbol": "£"
+        },
+        "geo": {
+            "latitude": "",
+            "longitude": ""
+        },
+        "capital": "LONDON",
+        "phone": "44"
+    },
+    {
+        "code": "US",
+        "name": "USA",
+        "currency": {
+            "currencyName": "US DOLLAR",
+            "currencyCode": "USD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 37.09024,
+            "longitude": -95.712891
+        },
+        "capital": "WASHINGTON",
+        "phone": "1"
+    },
+    {
+        "code": "UM",
+        "name": "USA MINOR OUTLYING ISLANDS",
+        "currency": {
+            "currencyName": "US DOLLAR",
+            "currencyCode": "USD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": null,
+            "longitude": null
+        },
+        "capital": "NONE",
+        "phone": ""
+    },
+    {
+        "code": "UG",
+        "name": "UGANDA",
+        "currency": {
+            "currencyName": "UGANDA SHILLING",
+            "currencyCode": "UGX",
+            "currencySymbol": "USh"
+        },
+        "geo": {
+            "latitude": 1.373333,
+            "longitude": 32.290275
+        },
+        "capital": "KAMPALA",
+        "phone": "256"
+    },
+    {
+        "code": "UA",
+        "name": "UKRAINE",
+        "currency": {
+            "currencyName": "UKRAINE HRYVNIA",
+            "currencyCode": "UAH",
+            "currencySymbol": "₴"
+        },
+        "geo": {
+            "latitude": 48.379433,
+            "longitude": 31.16558
+        },
+        "capital": "KIEV",
+        "phone": "380"
+    },
+    {
+        "code": "AE",
+        "name": "UNITED ARAB EMIRATES",
+        "currency": {
+            "currencyName": "ARAB EMIRATES DIRHAM",
+            "currencyCode": "AED",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 23.424076,
+            "longitude": 53.847818
+        },
+        "capital": "ABU DHABI",
+        "phone": "971"
+    },
+    {
+        "code": "UY",
+        "name": "URUGUAY",
+        "currency": {
+            "currencyName": "URUGUAYAN PESO",
+            "currencyCode": "UYU",
+            "currencySymbol": "$U"
+        },
+        "geo": {
+            "latitude": -32.522779,
+            "longitude": -55.765835
+        },
+        "capital": "MONTEVIDEO",
+        "phone": "598"
+    },
+    {
+        "code": "UZ",
+        "name": "UZBEKISTAN",
+        "currency": {
+            "currencyName": "UZBEKISTAN SUM",
+            "currencyCode": "UZS",
+            "currencySymbol": "лв"
+        },
+        "geo": {
+            "latitude": 41.377491,
+            "longitude": 64.585262
+        },
+        "capital": "TASHKENT",
+        "phone": "998"
+    },
+    {
+        "code": "VU",
+        "name": "VANUATU",
+        "currency": {
+            "currencyName": "VANUATU VATU",
+            "currencyCode": "VUV",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -15.376706,
+            "longitude": 166.959158
+        },
+        "capital": "PORT VILA",
+        "phone": "678"
+    },
+    {
+        "code": "VA",
+        "name": "VATICAN",
+        "currency": {
+            "currencyName": "EURO",
+            "currencyCode": "EUR",
+            "currencySymbol": "€"
+        },
+        "geo": {
+            "latitude": 41.902916,
+            "longitude": 12.453389
+        },
+        "capital": "VATICAN CITY",
+        "phone": "39"
+    },
+    {
+        "code": "VE",
+        "name": "VENEZUELA",
+        "currency": {
+            "currencyName": "VENEZUELAN BOLIVAR",
+            "currencyCode": "VEF",
+            "currencySymbol": "Bs"
+        },
+        "geo": {
+            "latitude": 6.42375,
+            "longitude": -66.58973
+        },
+        "capital": "CARACAS",
+        "phone": "58"
+    },
+    {
+        "code": "VN",
+        "name": "VIETNAM",
+        "currency": {
+            "currencyName": "VIETNAMESE DONG",
+            "currencyCode": "VND",
+            "currencySymbol": "₫"
+        },
+        "geo": {
+            "latitude": 14.058324,
+            "longitude": 108.277199
+        },
+        "capital": "HANOI",
+        "phone": "84"
+    },
+    {
+        "code": "VG",
+        "name": "VIRGIN ISLANDS (BRITISH)",
+        "currency": {
+            "currencyName": "US DOLLAR",
+            "currencyCode": "USD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 18.420695,
+            "longitude": -64.639968
+        },
+        "capital": "ROAD TOWN",
+        "phone": "1-284"
+    },
+    {
+        "code": "VI",
+        "name": "VIRGIN ISLANDS (USA)",
+        "currency": {
+            "currencyName": "US DOLLAR",
+            "currencyCode": "USD",
+            "currencySymbol": "$"
+        },
+        "geo": {
+            "latitude": 18.335765,
+            "longitude": -64.896335
+        },
+        "capital": "CHARLOTTE AMALIE",
+        "phone": "1-340"
+    },
+    {
+        "code": "WF",
+        "name": "WALLIS AND FUTUNA ISLANDS",
+        "currency": {
+            "currencyName": "CFP FRANC",
+            "currencyCode": "XPF",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -13.768752,
+            "longitude": -177.156097
+        },
+        "capital": "MATA-UTU",
+        "phone": "681"
+    },
+    {
+        "code": "EH",
+        "name": "WESTERN SAHARA",
+        "currency": {
+            "currencyName": "MOROCCAN DIRHAM",
+            "currencyCode": "MAD",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": 24.215527,
+            "longitude": -12.885834
+        },
+        "capital": "EL AAIUN",
+        "phone": ""
+    },
+    {
+        "code": "YE",
+        "name": "YEMEN",
+        "currency": {
+            "currencyName": "YEMENI RIAL",
+            "currencyCode": "YER",
+            "currencySymbol": "﷼"
+        },
+        "geo": {
+            "latitude": 15.552727,
+            "longitude": 48.516388
+        },
+        "capital": "SAN'A",
+        "phone": "967"
+    },
+    {
+        "code": "ZM",
+        "name": "ZAMBIA",
+        "currency": {
+            "currencyName": "ZAMBIAN KWACHA",
+            "currencyCode": "ZMW",
+            "currencySymbol": ""
+        },
+        "geo": {
+            "latitude": -13.133897,
+            "longitude": 27.849332
+        },
+        "capital": "LUSAKA",
+        "phone": "260"
+    },
+    {
+        "code": "ZW",
+        "name": "ZIMBABWE",
+        "currency": {
+            "currencyName": "ZIMBABWE DOLLAR",
+            "currencyCode": "ZWD",
+            "currencySymbol": "Z$"
+        },
+        "geo": {
+            "latitude": -19.015438,
+            "longitude": 29.154857
+        },
+        "capital": "HARARE",
+        "phone": "263"
+    }
+]
