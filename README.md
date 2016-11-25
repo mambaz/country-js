@@ -1,6 +1,6 @@
 # country-js
 
-Npm package to Get the country code, name, currency symbol, capital, phone code
+Npm package to Get the country code, name, currency symbol, capital, phone code, latitude and longitude
 
 ## Installation
 

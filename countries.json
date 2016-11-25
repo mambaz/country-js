@@ -20,7 +20,7 @@
         "currency": {
             "currencyName": "ALBANIAN LEK",
             "currencyCode": "ALL",
-            "currencySymbol": ""
+            "currencySymbol": "lekë"
         },
         "geo": {
             "latitude": 41.153332,
@@ -35,7 +35,7 @@
         "currency": {
             "currencyName": "ALGERIAN DINAR",
             "currencyCode": "DZD",
-            "currencySymbol": ""
+            "currencySymbol": "د.ج"
         },
         "geo": {
             "latitude": 28.033886,
@@ -80,7 +80,7 @@
         "currency": {
             "currencyName": "ANGOLAN KWANZA",
             "currencyCode": "AOA",
-            "currencySymbol": ""
+            "currencySymbol": "Kz"
         },
         "geo": {
             "latitude": -11.202692,
@@ -155,7 +155,7 @@
         "currency": {
             "currencyName": "ARMENIAN DRAM",
             "currencyCode": "AMD",
-            "currencySymbol": ""
+            "currencySymbol": "դր."
         },
         "geo": {
             "latitude": 40.069099,
@@ -245,7 +245,7 @@
         "currency": {
             "currencyName": "BAHRAINI DINAR",
             "currencyCode": "BHD",
-            "currencySymbol": ""
+            "currencySymbol": ".د.ب"
         },
         "geo": {
             "latitude": 25.930414,
@@ -260,7 +260,7 @@
         "currency": {
             "currencyName": "BANGLADESHI TAKA",
             "currencyCode": "BDT",
-            "currencySymbol": ""
+            "currencySymbol": "৳"
         },
         "geo": {
             "latitude": 23.684994,
@@ -335,7 +335,7 @@
         "currency": {
             "currencyName": "CFA FRANC BCEAO",
             "currencyCode": "XOF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": 9.30769,
@@ -365,7 +365,7 @@
         "currency": {
             "currencyName": "BHUTAN NGULTRUM",
             "currencyCode": "BTN",
-            "currencySymbol": ""
+            "currencySymbol": "Nu."
         },
         "geo": {
             "latitude": 27.514162,
@@ -500,7 +500,7 @@
         "currency": {
             "currencyName": "CFA FRANC BCEAO",
             "currencyCode": "XOF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": 12.238333,
@@ -515,7 +515,7 @@
         "currency": {
             "currencyName": "BURUNDI FRANC",
             "currencyCode": "BIF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": -3.373056,
@@ -545,7 +545,7 @@
         "currency": {
             "currencyName": "CFA FRANC BEAC",
             "currencyCode": "XAF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": 7.369722,
@@ -575,7 +575,7 @@
         "currency": {
             "currencyName": "CAPE VERDE ESCUDO",
             "currencyCode": "CVE",
-            "currencySymbol": ""
+            "currencySymbol": "$"
         },
         "geo": {
             "latitude": 16.002082,
@@ -605,7 +605,7 @@
         "currency": {
             "currencyName": "CFA FRANC BEAC",
             "currencyCode": "XAF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": 6.611111,
@@ -620,7 +620,7 @@
         "currency": {
             "currencyName": "CFA FRANC BEAC",
             "currencyCode": "XAF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": 15.454166,
@@ -710,7 +710,7 @@
         "currency": {
             "currencyName": "COMOROS FRANC",
             "currencyCode": "KMF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": -11.875001,
@@ -725,7 +725,7 @@
         "currency": {
             "currencyName": "CFA FRANC BEAC",
             "currencyCode": "XAF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": -0.228021,
@@ -740,7 +740,7 @@
         "currency": {
             "currencyName": "FRANCS",
             "currencyCode": "CDF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": -4.038333,
@@ -860,7 +860,7 @@
         "currency": {
             "currencyName": "DJIBOUTI FRANC",
             "currencyCode": "DJF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": 11.825138,
@@ -905,7 +905,7 @@
         "currency": {
             "currencyName": "ECUADOR SUCRE",
             "currencyCode": "ECS",
-            "currencySymbol": ""
+            "currencySymbol": "S/."
         },
         "geo": {
             "latitude": -1.831239,
@@ -950,7 +950,7 @@
         "currency": {
             "currencyName": "CFA FRANC BEAC",
             "currencyCode": "XAF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": 1.650801,
@@ -965,7 +965,7 @@
         "currency": {
             "currencyName": "ERITREAN NAKFA",
             "currencyCode": "ERN",
-            "currencySymbol": ""
+            "currencySymbol": "Nfk"
         },
         "geo": {
             "latitude": 15.179384,
@@ -995,7 +995,7 @@
         "currency": {
             "currencyName": "ETHIOPIAN BIRR",
             "currencyCode": "ETB",
-            "currencySymbol": ""
+            "currencySymbol": "Br"
         },
         "geo": {
             "latitude": 9.145,
@@ -1013,8 +1013,8 @@
             "currencySymbol": "€"
         },
         "geo": {
-            "latitude": "",
-            "longitude": ""
+            "latitude": 9.0485,
+            "longitude": 7.4728
         },
         "capital": "BRUSSELS",
         "phone": ""
@@ -1080,7 +1080,7 @@
         "phone": "358"
     },
     {
-        "code": "FR",
+        "code": "Fr",
         "name": "FRANCE",
         "currency": {
             "currencyName": "EURO",
@@ -1130,7 +1130,7 @@
         "currency": {
             "currencyName": "CFA FRANC BEAC",
             "currencyCode": "XAF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": -0.803689,
@@ -1145,7 +1145,7 @@
         "currency": {
             "currencyName": "GAMBIAN DALASI",
             "currencyCode": "GMD",
-            "currencySymbol": ""
+            "currencySymbol": "D"
         },
         "geo": {
             "latitude": 13.443182,
@@ -1160,7 +1160,7 @@
         "currency": {
             "currencyName": "GEORGIAN LARI",
             "currencyCode": "GEL",
-            "currencySymbol": ""
+            "currencySymbol": "ლ"
         },
         "geo": {
             "latitude": 42.315407,
@@ -1190,7 +1190,7 @@
         "currency": {
             "currencyName": "GHANAIAN CEDI",
             "currencyCode": "GHS",
-            "currencySymbol": ""
+            "currencySymbol": "₵"
         },
         "geo": {
             "latitude": 7.946527,
@@ -1310,7 +1310,7 @@
         "currency": {
             "currencyName": "GUATEMALAN QUETZAL",
             "currencyCode": "QTQ",
-            "currencySymbol": ""
+            "currencySymbol": "Q"
         },
         "geo": {
             "latitude": 15.783471,
@@ -1340,7 +1340,7 @@
         "currency": {
             "currencyName": "GUINEA FRANC",
             "currencyCode": "GNF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": 9.945587,
@@ -1355,7 +1355,7 @@
         "currency": {
             "currencyName": "GUINEA-BISSAU PESO",
             "currencyCode": "GWP",
-            "currencySymbol": ""
+            "currencySymbol": "pesos"
         },
         "geo": {
             "latitude": 11.803749,
@@ -1385,7 +1385,7 @@
         "currency": {
             "currencyName": "HAITIAN GOURDE",
             "currencyCode": "HTG",
-            "currencySymbol": ""
+            "currencySymbol": "G"
         },
         "geo": {
             "latitude": 18.971187,
@@ -1500,21 +1500,6 @@
         "phone": "62"
     },
     {
-        "code": "INT",
-        "name": "INTERNATIONAL",
-        "currency": {
-            "currencyName": "",
-            "currencyCode": "",
-            "currencySymbol": ""
-        },
-        "geo": {
-            "latitude": "",
-            "longitude": ""
-        },
-        "capital": "",
-        "phone": ""
-    },
-    {
         "code": "IR",
         "name": "IRAN",
         "currency": {
@@ -1535,7 +1520,7 @@
         "currency": {
             "currencyName": "IRAQI DINAR",
             "currencyCode": "IQD",
-            "currencySymbol": ""
+            "currencySymbol": "ع.د"
         },
         "geo": {
             "latitude": 33.223191,
@@ -1610,7 +1595,7 @@
         "currency": {
             "currencyName": "CFA FRANC BCEAO",
             "currencyCode": "XOF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": 7.539989,
@@ -1670,7 +1655,7 @@
         "currency": {
             "currencyName": "JORDANIAN DINAR",
             "currencyCode": "JOD",
-            "currencySymbol": ""
+            "currencySymbol": "د.ا"
         },
         "geo": {
             "latitude": 30.585164,
@@ -1760,7 +1745,7 @@
         "currency": {
             "currencyName": "KUWAITI DINAR",
             "currencyCode": "KWD",
-            "currencySymbol": ""
+            "currencySymbol": "د.ك"
         },
         "geo": {
             "latitude": 29.31166,
@@ -1835,7 +1820,7 @@
         "currency": {
             "currencyName": "LESOTHO LOTI",
             "currencyCode": "LSL",
-            "currencySymbol": ""
+            "currencySymbol": "L"
         },
         "geo": {
             "latitude": -29.609988,
@@ -1865,7 +1850,7 @@
         "currency": {
             "currencyName": "LIBYAN DINAR",
             "currencyCode": "LYD",
-            "currencySymbol": ""
+            "currencySymbol": "ل.د"
         },
         "geo": {
             "latitude": 26.3351,
@@ -1925,7 +1910,7 @@
         "currency": {
             "currencyName": "MACAU PATACA",
             "currencyCode": "MOP",
-            "currencySymbol": ""
+            "currencySymbol": "P"
         },
         "geo": {
             "latitude": 22.198745,
@@ -1955,7 +1940,7 @@
         "currency": {
             "currencyName": "MALAGASY FRANC",
             "currencyCode": "MGF",
-            "currencySymbol": ""
+            "currencySymbol": "Ar"
         },
         "geo": {
             "latitude": -18.766947,
@@ -1970,7 +1955,7 @@
         "currency": {
             "currencyName": "MALAWI KWACHA",
             "currencyCode": "MWK",
-            "currencySymbol": ""
+            "currencySymbol": "MK"
         },
         "geo": {
             "latitude": -13.254308,
@@ -2000,7 +1985,7 @@
         "currency": {
             "currencyName": "MALDIVE RUFIYAA",
             "currencyCode": "MVR",
-            "currencySymbol": ""
+            "currencySymbol": "Rf."
         },
         "geo": {
             "latitude": 3.202778,
@@ -2015,7 +2000,7 @@
         "currency": {
             "currencyName": "CFA FRANC BCEAO",
             "currencyCode": "XOF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": 17.570692,
@@ -2075,7 +2060,7 @@
         "currency": {
             "currencyName": "MAURITANIAN OUGUIYA",
             "currencyCode": "MRO",
-            "currencySymbol": ""
+            "currencySymbol": "UM"
         },
         "geo": {
             "latitude": 21.00789,
@@ -2150,7 +2135,7 @@
         "currency": {
             "currencyName": "MOLDOVAN LEU",
             "currencyCode": "MDL",
-            "currencySymbol": ""
+            "currencySymbol": "L"
         },
         "geo": {
             "latitude": 47.411631,
@@ -2225,7 +2210,7 @@
         "currency": {
             "currencyName": "MOROCCAN DIRHAM",
             "currencyCode": "MAD",
-            "currencySymbol": ""
+            "currencySymbol": "د.م."
         },
         "geo": {
             "latitude": 31.791702,
@@ -2255,7 +2240,7 @@
         "currency": {
             "currencyName": "MYANMAR KYAT",
             "currencyCode": "MMK",
-            "currencySymbol": ""
+            "currencySymbol": "K"
         },
         "geo": {
             "latitude": 21.913965,
@@ -2345,7 +2330,7 @@
         "currency": {
             "currencyName": "CFP FRANC",
             "currencyCode": "XPF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": -20.904305,
@@ -2390,7 +2375,7 @@
         "currency": {
             "currencyName": "CFA FRANC BCEAO",
             "currencyCode": "XOF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": 17.607789,
@@ -2540,7 +2525,7 @@
         "currency": {
             "currencyName": "PAPUA NEW GUINEA KINA",
             "currencyCode": "PGK",
-            "currencySymbol": ""
+            "currencySymbol": "K"
         },
         "geo": {
             "latitude": -6.314993,
@@ -2630,7 +2615,7 @@
         "currency": {
             "currencyName": "CFP FRANC",
             "currencyCode": "XPF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": -17.679742,
@@ -2735,7 +2720,7 @@
         "currency": {
             "currencyName": "RWANDA FRANC",
             "currencyCode": "RWF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": -1.940278,
@@ -2825,7 +2810,7 @@
         "currency": {
             "currencyName": "SAMOAN TALA",
             "currencyCode": "WST",
-            "currencySymbol": ""
+            "currencySymbol": "T"
         },
         "geo": {
             "latitude": -13.759029,
@@ -2855,7 +2840,7 @@
         "currency": {
             "currencyName": "DOBRA",
             "currencyCode": "STD",
-            "currencySymbol": ""
+            "currencySymbol": "Db"
         },
         "geo": {
             "latitude": 0.18636,
@@ -2885,7 +2870,7 @@
         "currency": {
             "currencyName": "CFA FRANC BCEAO",
             "currencyCode": "XOF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": 14.497401,
@@ -2930,7 +2915,7 @@
         "currency": {
             "currencyName": "SIERRA LEONE LEONE",
             "currencyCode": "SLL",
-            "currencySymbol": ""
+            "currencySymbol": "Le"
         },
         "geo": {
             "latitude": 8.460555,
@@ -3050,11 +3035,11 @@
         "currency": {
             "currencyName": "SOUTH SUDAN POUND",
             "currencyCode": "SSP",
-            "currencySymbol": ""
+            "currencySymbol": "£"
         },
         "geo": {
-            "latitude": "",
-            "longitude": ""
+            "latitude": 7.9631,
+            "longitude": 30.1589
         },
         "capital": "RAMCIEL",
         "phone": ""
@@ -3095,7 +3080,7 @@
         "currency": {
             "currencyName": "SUDANESE POUND",
             "currencyCode": "SDG",
-            "currencySymbol": ""
+            "currencySymbol": "£"
         },
         "geo": {
             "latitude": 12.862807,
@@ -3140,7 +3125,7 @@
         "currency": {
             "currencyName": "SWAZILAND LILANGENI",
             "currencyCode": "SZL",
-            "currencySymbol": ""
+            "currencySymbol": "L"
         },
         "geo": {
             "latitude": -26.522503,
@@ -3215,7 +3200,7 @@
         "currency": {
             "currencyName": "TAJIK SOMONI",
             "currencyCode": "TJS",
-            "currencySymbol": ""
+            "currencySymbol": "SM"
         },
         "geo": {
             "latitude": 38.861034,
@@ -3260,7 +3245,7 @@
         "currency": {
             "currencyName": "CFA FRANC BCEAO",
             "currencyCode": "XOF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": 8.619543,
@@ -3290,7 +3275,7 @@
         "currency": {
             "currencyName": "TONGAN PA'ANGA",
             "currencyCode": "TOP",
-            "currencySymbol": ""
+            "currencySymbol": "T$"
         },
         "geo": {
             "latitude": -21.178986,
@@ -3320,7 +3305,7 @@
         "currency": {
             "currencyName": "TUNISIAN DOLLAR",
             "currencyCode": "TND",
-            "currencySymbol": ""
+            "currencySymbol": "د.ت"
         },
         "geo": {
             "latitude": 33.886917,
@@ -3335,7 +3320,7 @@
         "currency": {
             "currencyName": "TURKISH LIRA",
             "currencyCode": "TRY",
-            "currencySymbol": ""
+            "currencySymbol": "TL"
         },
         "geo": {
             "latitude": 38.963745,
@@ -3350,7 +3335,7 @@
         "currency": {
             "currencyName": "MANAT",
             "currencyCode": "TMT",
-            "currencySymbol": ""
+            "currencySymbol": "m"
         },
         "geo": {
             "latitude": 38.969719,
@@ -3391,15 +3376,15 @@
     },
     {
         "code": "UK",
-        "name": "U.K.",
+        "name": "UNITED KINGDOM",
         "currency": {
             "currencyName": "POUND STERLING",
             "currencyCode": "GBP",
             "currencySymbol": "£"
         },
         "geo": {
-            "latitude": "",
-            "longitude": ""
+            "latitude": 55.3781,
+            "longitude": -3.436
         },
         "capital": "LONDON",
         "phone": "44"
@@ -3470,7 +3455,7 @@
         "currency": {
             "currencyName": "ARAB EMIRATES DIRHAM",
             "currencyCode": "AED",
-            "currencySymbol": ""
+            "currencySymbol": "د.إ"
         },
         "geo": {
             "latitude": 23.424076,
@@ -3515,7 +3500,7 @@
         "currency": {
             "currencyName": "VANUATU VATU",
             "currencyCode": "VUV",
-            "currencySymbol": ""
+            "currencySymbol": "Vt"
         },
         "geo": {
             "latitude": -15.376706,
@@ -3605,7 +3590,7 @@
         "currency": {
             "currencyName": "CFP FRANC",
             "currencyCode": "XPF",
-            "currencySymbol": ""
+            "currencySymbol": "Fr"
         },
         "geo": {
             "latitude": -13.768752,
@@ -3620,7 +3605,7 @@
         "currency": {
             "currencyName": "MOROCCAN DIRHAM",
             "currencyCode": "MAD",
-            "currencySymbol": ""
+            "currencySymbol": "د.م."
         },
         "geo": {
             "latitude": 24.215527,
@@ -3650,7 +3635,7 @@
         "currency": {
             "currencyName": "ZAMBIAN KWACHA",
             "currencyCode": "ZMW",
-            "currencySymbol": ""
+            "currencySymbol": "ZK"
         },
         "geo": {
             "latitude": -13.133897,
