@@ -116,7 +116,7 @@
             "latitude": -75.250973,
             "longitude": -0.071389
         },
-        "capital": "NONE",
+        "capital": "",
         "phone": "672"
     },
     {
@@ -431,8 +431,8 @@
             "latitude": -54.423199,
             "longitude": 3.413194
         },
-        "capital": "NONE",
-        "phone": ""
+        "capital": "",
+        "phone": "0047"
     },
     {
         "code": "BR",
@@ -461,8 +461,8 @@
             "latitude": -6.343194,
             "longitude": 71.876519
         },
-        "capital": "NONE",
-        "phone": ""
+        "capital": "",
+        "phone": "00246"
     },
     {
         "code": "BN",
@@ -1017,7 +1017,7 @@
             "longitude": 7.4728
         },
         "capital": "BRUSSELS",
-        "phone": ""
+        "phone": "0032"
     },
     {
         "code": "FK",
@@ -1121,8 +1121,8 @@
             "latitude": -49.280366,
             "longitude": 69.348557
         },
-        "capital": "NONE",
-        "phone": ""
+        "capital": "",
+        "phone": "00262"
     },
     {
         "code": "GA",
@@ -1332,7 +1332,7 @@
             "longitude": -2.585278
         },
         "capital": "ST. PETER PORT",
-        "phone": ""
+        "phone": "0044"
     },
     {
         "code": "GN",
@@ -1406,8 +1406,8 @@
             "latitude": -53.08181,
             "longitude": 73.504158
         },
-        "capital": "NONE",
-        "phone": ""
+        "capital": "",
+        "phone": "00672"
     },
     {
         "code": "HN",
@@ -1557,7 +1557,7 @@
             "longitude": -4.548056
         },
         "capital": "DOUGLAS",
-        "phone": ""
+        "phone": "0044"
     },
     {
         "code": "IL",
@@ -1647,7 +1647,7 @@
             "longitude": -2.13125
         },
         "capital": "SAINT HELIER",
-        "phone": ""
+        "phone": "0044"
     },
     {
         "code": "JO",
@@ -2592,7 +2592,7 @@
             "longitude": -127.439308
         },
         "capital": "ADAMSTOWN",
-        "phone": ""
+        "phone": "0064"
     },
     {
         "code": "PL",
@@ -3026,8 +3026,8 @@
             "latitude": -54.429579,
             "longitude": -36.587909
         },
-        "capital": "NONE",
-        "phone": ""
+        "capital": "",
+        "phone": "00500"
     },
     {
         "code": "SS",
@@ -3042,7 +3042,7 @@
             "longitude": 30.1589
         },
         "capital": "RAMCIEL",
-        "phone": ""
+        "phone": "00211"
     },
     {
         "code": "ES",
@@ -3117,7 +3117,7 @@
             "longitude": 23.670272
         },
         "capital": "LONGYEARBYEN",
-        "phone": ""
+        "phone": "0047"
     },
     {
         "code": "SZ",
@@ -3266,7 +3266,7 @@
             "latitude": -8.967363,
             "longitude": -171.855881
         },
-        "capital": "NONE",
+        "capital": "",
         "phone": "690"
     },
     {
@@ -3413,11 +3413,11 @@
             "currencySymbol": "$"
         },
         "geo": {
-            "latitude": null,
-            "longitude": null
+            "latitude": -0.374350,
+            "longitude": -159.996719
         },
-        "capital": "NONE",
-        "phone": ""
+        "capital": "",
+        "phone": "001"
     },
     {
         "code": "UG",
@@ -3612,7 +3612,7 @@
             "longitude": -12.885834
         },
         "capital": "EL AAIUN",
-        "phone": ""
+        "phone": "00212"
     },
     {
         "code": "YE",
