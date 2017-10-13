@@ -1,4 +1,4 @@
-var data = require('./countries.json'),
+var data = require('./countries'),
     _ = require('lodash');
 
 /**
