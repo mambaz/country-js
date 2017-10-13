@@ -7,7 +7,9 @@ var chai = require('chai'),
     countries = [
         'USA',
         'SG',
-        'IN'
+        'IN',
+        'france',
+        'Fr'
     ];
 
 
@@ -18,7 +20,7 @@ describe('##### Countries #####', function() {
 
         countries.forEach (function (txt) {
             var result = n.search(txt);
-            console.log(result);
+            // console.log(result);
             result.should.be.a('array');
         });
     });

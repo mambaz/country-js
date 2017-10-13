@@ -1,6 +1,6 @@
 {
   "name": "country-js",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Get the country code, name, currency symbol, capital, phone code, latitude and longitude",
   "main": "index.js",
   "scripts": {
