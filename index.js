@@ -1,17 +1,15 @@
-var data = require('./countries.json'),
-    _ = require('lodash');
-
+const countries = require('./countries.json');
 /**
  * Get the country array object
  * @param   {string}        parameter to find the country
  * @returns {array}       return array object
  */
-module.exports.search = function (txt) {
+module.exports.search = (txt) => {
     txt = (txt) ? txt.toUpperCase().trim() : null;
-    var results = [];
+    let results = [];
 
-    if (data) {
-        data.forEach (function(value, i) {
+    if (countries) {
+        countries.forEach(function (value, i) {
 
             for (var j in value) {
                 if (value[j] == txt) {
@@ -32,5 +30,5 @@ module.exports.search = function (txt) {
         });
     }
 
-    return (!_.isEmpty(results)) ? (results) : [] ;
-}
+    return results;
+};
