@@ -1,10 +1,9 @@
 'use strict';
-
-var chai = require('chai'),
-    should = chai.should(),
-    expect = chai.expect,
-    n = require('../index.js'),
-    countries = [
+const chai = require('chai');
+const should = chai.should();
+const expect = chai.expect;
+const n = require('../index.js');
+const countries = [
         'USA',
         'SG',
         'IN',
@@ -12,19 +11,12 @@ var chai = require('chai'),
         'Fr'
     ];
 
-
-
 describe('##### Countries #####', function() {
-
     it ('Filter by input value', function () {
-
         countries.forEach (function (txt) {
-            var result = n.search(txt);
+            const result = n.search(txt);
             // console.log(result);
             result.should.be.a('array');
         });
     });
-
-   
-
 });
