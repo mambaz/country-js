@@ -1,14 +1,14 @@
 {
   "name": "country-js",
-  "version": "0.0.9",
+  "version": "0.10.0",
   "description": "Get the country code, name, currency symbol, capital, phone code, latitude and longitude",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "devDependencies": {
-    "mocha": "^6.2.0",
-    "chai": "^4.2.0"
+    "chai": "^4.2.0",
+    "mocha": "^10.2.0"
   },
   "repository": {
     "type": "git",

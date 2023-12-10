@@ -1,32 +1,23 @@
 const countries = require('./countries.json');
+
 /**
  * Get the country array object
- * @param   {string}        parameter to find the country
- * @returns {array}       return array object
+ * @param   {string}   parameter to find the country
+ * @returns {array}    return array object
  */
 module.exports.search = (txt) => {
-    txt = (txt) ? txt.toUpperCase().trim() : null;
-    let results = [];
+    const searchText = txt ? txt.toUpperCase().trim() : null;
+    const results = [];
 
-    if (countries) {
-        countries.forEach(function (value, i) {
+    if (countries && searchText !== null) {
+        countries.forEach((country) => {
+            const values = Object.values(country);
 
-            for (var j in value) {
-                if (value[j] == txt) {
-                    results.push(value);
-                    break;
+            values.forEach((value) => {
+                if (value === searchText || (typeof value === 'object' && Object.values(value).includes(searchText))) {
+                    results.push(country);
                 }
-
-                var obj_2 = value[j];
-                if (obj_2.constructor === Object) {
-                    for (var k in obj_2) {
-                        if (obj_2[k] == txt) {
-                            results.push(value);
-                            break;
-                        }
-                    }
-                }
-            }
+            });
         });
     }
 
